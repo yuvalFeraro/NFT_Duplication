@@ -1,0 +1,35 @@
+CryptoPunk — Minimal Distance Detector Test Report
+============================================================
+Base tree  : 320 train / 80 test
+             (CP originals + imgs_base)
+Positives  : 160 train / 42 test
+Negatives  : 160 train / 40 test
+============================================================
+
+Detector k=1
+  Best thresholds : aHash=0  pHash=1  hsvHash=0  sHash=3
+  Train Recall=0.3688  Train FPR=0.1750
+  TP=23  FP=4  FN=19  TN=36
+  Recall    = 0.5476
+  FPR       = 0.1000
+  Precision = 0.8519
+  F1        = 0.6667
+
+Detector k=2
+  Best thresholds : aHash=0  pHash=3  hsvHash=0  sHash=18
+  Train Recall=0.4250  Train FPR=0.2000
+  TP=23  FP=6  FN=19  TN=34
+  Recall    = 0.5476
+  FPR       = 0.1500
+  Precision = 0.7931
+  F1        = 0.6479
+
+Detector k=3
+  Best thresholds : aHash=5  pHash=3  hsvHash=0  sHash=18
+  Train Recall=0.4250  Train FPR=0.2000
+  TP=23  FP=6  FN=19  TN=34
+  Recall    = 0.5476
+  FPR       = 0.1500
+  Precision = 0.7931
+  F1        = 0.6479
+

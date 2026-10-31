@@ -1,0 +1,21 @@
+How i want to train the model:
+
+1) choose 800 images from one of the folders: Images_Azuki,Images_Bored_Apes..,Images_Lil_Pudgys.(3 folders total), which have a fake in one of the subfolders of dataset_duplications.
+put them in the "base tree" - i.e treat them as each one of them has inserted to each one of the fuzzy hash trees.
+
+2)choose 700 another originals, which were not chosen into the first 800.
+
+3) choose additional 700 fake images, from dataset_duplication, whose reference image is in the 800 images from (1).
+
+4) divide the data from steps (2) + (3) into 80% train, 20% test.
+
+5) for positives(fakes) train in the next way : choose 50 closet images in each fuzzy hash (union), and for example if image A, the duplicated is "inserted", and image B is one of the 50 closet by aHash ( but B is not the reference of A )- find their hash distances in each function(hamming distance), look at the distances as features, and tag 0 (none duplicate).
+
+any way, if C is in this 50, do the same but tag as 1 (duplicate)
+
+
+6) for negatives, find the 50 closet in each hash and do like in (5), i.e tag 0.
+
+
+what do you think should i do with the base tree? divide it to prevent data leakage?
+do you think that the learning process is right?

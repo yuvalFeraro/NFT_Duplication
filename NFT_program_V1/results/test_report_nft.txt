@@ -1,0 +1,39 @@
+NFT_program_V2 Datasets — Minimal Distance Detector Test Report
+============================================================
+Datasets    : Azuki + Bored Ape Yacht Club + Lil Pudgys
+Subsampled to match DISC-21 quantities (seed=42)
+Train base  : 338 images
+Train fakes : 413 images
+Train neg   : 413 images
+Test base   : 86 images
+Test fakes  : 103 images
+Test neg    : 103 images
+============================================================
+
+Detector k=1
+  Best thresholds : aHash=0  pHash=3  hsvHash=0  sHash=8
+  Train Recall=0.7361  Train FPR=0.1719
+  TP=73  FP=8  FN=30  TN=95
+  Recall    = 0.7087
+  FPR       = 0.0777
+  Precision = 0.9012
+  F1        = 0.7935
+
+Detector k=2
+  Best thresholds : aHash=0  pHash=3  hsvHash=4  sHash=8
+  Train Recall=0.7361  Train FPR=0.1695
+  TP=73  FP=8  FN=30  TN=95
+  Recall    = 0.7087
+  FPR       = 0.0777
+  Precision = 0.9012
+  F1        = 0.7935
+
+Detector k=3
+  Best thresholds : aHash=20  pHash=3  hsvHash=4  sHash=8
+  Train Recall=0.7361  Train FPR=0.1695
+  TP=73  FP=8  FN=30  TN=95
+  Recall    = 0.7087
+  FPR       = 0.0777
+  Precision = 0.9012
+  F1        = 0.7935
+

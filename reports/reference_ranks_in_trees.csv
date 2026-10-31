@@ -1,0 +1,701 @@
+fake_filename,ref_image,collection,type,sub_type,split,rank_aHash,dist_aHash,rank_pHash,dist_pHash,rank_sHash,dist_sHash,rank_hsvHash,dist_hsvHash,best_rank,n_trees_found
+Lil_Pudgys_322_dup_noi_424.png,Lil_Pudgys_322.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,0,1,3.0,4,0,1,4
+Bored_Ape_Yacht_Club_475_dup_con_188.png,Bored_Ape_Yacht_Club_475.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,6,1,1,4,1,2.25,13,0,1,4
+Lil_Pudgys_341_dup_con_346.png,Lil_Pudgys_341.png,Lil_Pudgys,content modification,border_frame,train,NOT_FOUND,,2,8,4,13.0,16,1,2,3
+Lil_Pudgys_508_dup_geo_439.png,Lil_Pudgys_508.png,Lil_Pudgys,geometric transformation,rotation,train,1,15,3,8,5,23.166666666666668,2,2,1,4
+Lil_Pudgys_395_dup_col_488.png,Lil_Pudgys_395.png,Lil_Pudgys,color modification,color_tint,train,1,0,1,2,1,4.333333333333333,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_195_dup_col_211.png,Bored_Ape_Yacht_Club_195.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,train,1,0,1,0,1,10.0,NOT_FOUND,,1,3
+Azuki_383_dup_noi_15.png,Azuki_383.png,Azuki,noise & compression,gaussian_noise,train,1,1,1,0,1,0.8,3,2,1,4
+Lil_Pudgys_188_dup_noi_388.png,Lil_Pudgys_188.png,Lil_Pudgys,noise & compression,blurring,train,1,0,1,0,1,4.75,14,0,1,4
+Bored_Ape_Yacht_Club_377_dup_geo_301.png,Bored_Ape_Yacht_Club_377.png,Bored_Ape_Yacht_Club,geometric transformation,flipping,train,4,6,NOT_FOUND,,NOT_FOUND,,23,0,4,2
+Azuki_272_dup_col_55.png,Azuki_272.png,Azuki,color modification,brightness_contrast,train,1,1,1,4,1,19.0,NOT_FOUND,,1,3
+Azuki_33_dup_noi_154.png,Azuki_33.png,Azuki,noise & compression,gaussian_noise,train,1,0,1,0,1,2.5,36,5,1,4
+Lil_Pudgys_148_dup_noi_389.png,Lil_Pudgys_148.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,0,1,0.5,1,0,1,4
+Azuki_134_dup_con_67.png,Azuki_134.png,Azuki,content modification,watermark_text,train,1,0,1,0,1,0.0,1,0,1,4
+Bored_Ape_Yacht_Club_231_dup_col_241.png,Bored_Ape_Yacht_Club_231.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,5,1,4,1,4.2,5,2,1,4
+Azuki_364_dup_geo_73.png,Azuki_364.png,Azuki,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,0,1,1
+Bored_Ape_Yacht_Club_1_dup_col_288.png,Bored_Ape_Yacht_Club_1.png,Bored_Ape_Yacht_Club,color modification,color_tint,train,1,0,1,4,1,2.6,10,2,1,4
+Bored_Ape_Yacht_Club_267_dup_con_203.png,Bored_Ape_Yacht_Club_267.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,1,1,2,1,0.0,9,0,1,4
+Lil_Pudgys_143_dup_geo_405.png,Lil_Pudgys_143.png,Lil_Pudgys,geometric transformation,flipping,train,28,6,NOT_FOUND,,16,19.0,1,0,1,3
+Lil_Pudgys_249_dup_con_413.png,Lil_Pudgys_249.png,Lil_Pudgys,content modification,watermark_text,train,1,0,1,0,1,2.3333333333333335,1,2,1,4
+Lil_Pudgys_329_dup_noi_460.png,Lil_Pudgys_329.png,Lil_Pudgys,noise & compression,jpeg_artifacts,train,1,0,1,0,1,1.5,35,4,1,4
+Lil_Pudgys_314_dup_noi_376.png,Lil_Pudgys_314.png,Lil_Pudgys,noise & compression,gaussian_noise,train,1,1,1,2,1,13.0,NOT_FOUND,,1,3
+Azuki_13_dup_geo_76.png,Azuki_13.png,Azuki,geometric transformation,cropping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,24,1,24,1
+Azuki_346_dup_geo_138.png,Azuki_346.png,Azuki,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,48,25.2,1,0,1,2
+Lil_Pudgys_170_dup_col_458.png,Lil_Pudgys_170.png,Lil_Pudgys,color modification,color_tint,train,1,3,1,2,1,6.25,15,0,1,4
+Azuki_453_dup_con_14.png,Azuki_453.png,Azuki,content modification,background_tint,train,1,4,1,4,1,9.666666666666666,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_136_dup_noi_295.png,Bored_Ape_Yacht_Club_136.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,3.0,25,2,1,4
+Azuki_79_dup_con_17.png,Azuki_79.png,Azuki,content modification,watermark_text,train,1,0,1,2,1,0.0,1,0,1,4
+Bored_Ape_Yacht_Club_158_dup_noi_266.png,Bored_Ape_Yacht_Club_158.png,Bored_Ape_Yacht_Club,noise & compression,gaussian_noise,train,1,0,1,0,1,1.0,27,3,1,4
+Azuki_231_dup_noi_147.png,Azuki_231.png,Azuki,noise & compression,jpeg_artifacts,train,1,0,1,2,1,1.0,1,0,1,4
+Bored_Ape_Yacht_Club_253_dup_col_307.png,Bored_Ape_Yacht_Club_253.png,Bored_Ape_Yacht_Club,color modification,color_tint,train,4,13,1,0,1,1.0,NOT_FOUND,,1,3
+Lil_Pudgys_107_dup_col_364.png,Lil_Pudgys_107.png,Lil_Pudgys,color modification,brightness_contrast,train,8,2,1,4,43,21.666666666666668,NOT_FOUND,,1,3
+Azuki_67_dup_geo_45.png,Azuki_67.png,Azuki,geometric transformation,cropping,train,30,17,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,30,1
+Lil_Pudgys_215_dup_geo_339.png,Lil_Pudgys_215.png,Lil_Pudgys,geometric transformation,rotation,train,38,27,1,10,1,20.666666666666668,1,1,1,4
+Bored_Ape_Yacht_Club_237_dup_col_330.png,Bored_Ape_Yacht_Club_237.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_222_dup_geo_109.png,Azuki_222.png,Azuki,geometric transformation,cropping,train,4,18,NOT_FOUND,,38,23.666666666666668,NOT_FOUND,,4,2
+Bored_Ape_Yacht_Club_238_dup_con_197.png,Bored_Ape_Yacht_Club_238.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,1,1,0,1,0.5,11,1,1,4
+Lil_Pudgys_377_dup_noi_482.png,Lil_Pudgys_377.png,Lil_Pudgys,noise & compression,jpeg_artifacts,train,1,0,1,0,1,0.0,18,0,1,4
+Lil_Pudgys_449_dup_noi_339.png,Lil_Pudgys_449.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,0,1,1.5,5,0,1,4
+Bored_Ape_Yacht_Club_467_dup_col_328.png,Bored_Ape_Yacht_Club_467.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,1,0,1,0,1,0.0,47,3,1,4
+Bored_Ape_Yacht_Club_281_dup_col_299.png,Bored_Ape_Yacht_Club_281.png,Bored_Ape_Yacht_Club,color modification,color_tint,train,1,1,1,0,1,5.333333333333333,22,2,1,4
+Bored_Ape_Yacht_Club_363_dup_geo_307.png,Bored_Ape_Yacht_Club_363.png,Bored_Ape_Yacht_Club,geometric transformation,cropping,train,24,15,12,18,1,14.166666666666666,39,2,1,4
+Bored_Ape_Yacht_Club_95_dup_noi_172.png,Bored_Ape_Yacht_Club_95.png,Bored_Ape_Yacht_Club,noise & compression,gaussian_noise,train,1,1,1,0,1,3.5,40,4,1,4
+Azuki_195_dup_geo_93.png,Azuki_195.png,Azuki,geometric transformation,rotation,train,1,6,2,16,1,13.2,1,0,1,4
+Bored_Ape_Yacht_Club_26_dup_col_216.png,Bored_Ape_Yacht_Club_26.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,train,2,2,1,4,4,21.714285714285715,18,3,1,4
+Azuki_180_dup_noi_153.png,Azuki_180.png,Azuki,noise & compression,blurring,train,1,0,1,0,1,0.75,2,0,1,4
+Lil_Pudgys_381_dup_con_351.png,Lil_Pudgys_381.png,Lil_Pudgys,content modification,background_tint,train,NOT_FOUND,,3,6,2,17.0,1,0,1,3
+Lil_Pudgys_340_dup_geo_335.png,Lil_Pudgys_340.png,Lil_Pudgys,geometric transformation,rotation,train,NOT_FOUND,,7,18,6,19.0,7,1,6,3
+Azuki_343_dup_con_24.png,Azuki_343.png,Azuki,content modification,watermark_text,train,1,0,1,0,1,0.0,1,0,1,4
+Azuki_7_dup_con_156.png,Azuki_7.png,Azuki,content modification,watermark_text,train,1,0,1,2,1,0.2,3,1,1,4
+Bored_Ape_Yacht_Club_218_dup_noi_323.png,Bored_Ape_Yacht_Club_218.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,1,0,1,2,1,0.5,3,0,1,4
+Bored_Ape_Yacht_Club_375_dup_noi_220.png,Bored_Ape_Yacht_Club_375.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,2,0,1,0,1,3.75,17,2,1,4
+Azuki_40_dup_con_16.png,Azuki_40.png,Azuki,content modification,background_tint,train,1,0,1,4,1,5.6,2,0,1,4
+Bored_Ape_Yacht_Club_443_dup_geo_281.png,Bored_Ape_Yacht_Club_443.png,Bored_Ape_Yacht_Club,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,2,22.0,6,0,2,2
+Lil_Pudgys_252_dup_con_417.png,Lil_Pudgys_252.png,Lil_Pudgys,content modification,border_frame,train,NOT_FOUND,,6,8,1,9.333333333333334,20,1,1,3
+Lil_Pudgys_195_dup_con_437.png,Lil_Pudgys_195.png,Lil_Pudgys,content modification,background_tint,train,1,0,1,2,1,9.0,NOT_FOUND,,1,3
+Azuki_124_dup_col_14.png,Azuki_124.png,Azuki,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_134_dup_geo_66.png,Azuki_134.png,Azuki,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,0,1,1
+Bored_Ape_Yacht_Club_230_dup_geo_254.png,Bored_Ape_Yacht_Club_230.png,Bored_Ape_Yacht_Club,geometric transformation,cropping,train,NOT_FOUND,,NOT_FOUND,,7,21.666666666666668,49,2,7,2
+Azuki_420_dup_col_33.png,Azuki_420.png,Azuki,color modification,brightness_contrast,train,1,2,1,4,1,11.375,1,0,1,4
+Azuki_415_dup_con_6.png,Azuki_415.png,Azuki,content modification,watermark_text,train,1,0,1,0,1,0.25,1,0,1,4
+Lil_Pudgys_341_dup_geo_427.png,Lil_Pudgys_341.png,Lil_Pudgys,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,16,0,1,4
+Azuki_449_dup_col_149.png,Azuki_449.png,Azuki,color modification,brightness_contrast,train,1,2,1,4,1,2.0,NOT_FOUND,,1,3
+Lil_Pudgys_211_dup_noi_349.png,Lil_Pudgys_211.png,Lil_Pudgys,noise & compression,jpeg_artifacts,train,1,0,1,0,1,0.0,1,0,1,4
+Lil_Pudgys_188_dup_con_488.png,Lil_Pudgys_188.png,Lil_Pudgys,content modification,background_tint,train,3,1,1,2,1,3.25,NOT_FOUND,,1,3
+Azuki_90_dup_con_121.png,Azuki_90.png,Azuki,content modification,border_frame,train,1,3,1,2,1,4.5,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_8_dup_col_300.png,Bored_Ape_Yacht_Club_8.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,0,1,2,1,9.333333333333334,4,1,1,4
+Bored_Ape_Yacht_Club_343_dup_col_233.png,Bored_Ape_Yacht_Club_343.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,train,1,0,1,0,1,13.4,NOT_FOUND,,1,3
+Lil_Pudgys_216_dup_noi_336.png,Lil_Pudgys_216.png,Lil_Pudgys,noise & compression,jpeg_artifacts,train,1,1,1,2,1,0.6,1,0,1,4
+Azuki_122_dup_noi_28.png,Azuki_122.png,Azuki,noise & compression,jpeg_artifacts,train,1,1,1,0,1,6.2,5,3,1,4
+Azuki_160_dup_col_45.png,Azuki_160.png,Azuki,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Lil_Pudgys_283_dup_col_442.png,Lil_Pudgys_283.png,Lil_Pudgys,color modification,brightness_contrast,train,1,4,1,0,1,3.0,8,0,1,4
+Lil_Pudgys_275_dup_geo_348.png,Lil_Pudgys_275.png,Lil_Pudgys,geometric transformation,cropping,train,26,8,NOT_FOUND,,4,19.0,16,3,4,3
+Bored_Ape_Yacht_Club_463_dup_con_244.png,Bored_Ape_Yacht_Club_463.png,Bored_Ape_Yacht_Club,content modification,border_frame,train,4,12,3,10,1,6.666666666666667,5,1,1,4
+Bored_Ape_Yacht_Club_349_dup_geo_270.png,Bored_Ape_Yacht_Club_349.png,Bored_Ape_Yacht_Club,geometric transformation,flipping,train,12,8,NOT_FOUND,,NOT_FOUND,,7,0,7,2
+Azuki_465_dup_col_129.png,Azuki_465.png,Azuki,color modification,brightness_contrast,train,1,1,1,0,1,20.0,4,2,1,4
+Bored_Ape_Yacht_Club_2_dup_con_303.png,Bored_Ape_Yacht_Club_2.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,4,7,1,0,1,4.75,1,0,1,4
+Lil_Pudgys_498_dup_con_460.png,Lil_Pudgys_498.png,Lil_Pudgys,content modification,watermark_text,train,1,0,1,0,1,0.0,26,0,1,4
+Lil_Pudgys_126_dup_noi_495.png,Lil_Pudgys_126.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,2,0,1,2,4,12.5,6,0,1,4
+Lil_Pudgys_185_dup_noi_425.png,Lil_Pudgys_185.png,Lil_Pudgys,noise & compression,gaussian_noise,train,2,11,1,0,1,1.5,NOT_FOUND,,1,3
+Azuki_220_dup_geo_95.png,Azuki_220.png,Azuki,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,3,0,1,4
+Bored_Ape_Yacht_Club_364_dup_col_268.png,Bored_Ape_Yacht_Club_364.png,Bored_Ape_Yacht_Club,color modification,color_tint,train,3,1,1,2,1,12.666666666666666,NOT_FOUND,,1,3
+Azuki_488_dup_noi_31.png,Azuki_488.png,Azuki,noise & compression,jpeg_artifacts,train,1,0,1,0,1,0.4,1,0,1,4
+Bored_Ape_Yacht_Club_82_dup_con_171.png,Bored_Ape_Yacht_Club_82.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,1,6,1,2,1,5.0,8,3,1,4
+Lil_Pudgys_24_dup_noi_462.png,Lil_Pudgys_24.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,2,1,4.333333333333333,11,0,1,4
+Bored_Ape_Yacht_Club_155_dup_geo_285.png,Bored_Ape_Yacht_Club_155.png,Bored_Ape_Yacht_Club,geometric transformation,rotation,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,5,0,5,1
+Azuki_307_dup_geo_87.png,Azuki_307.png,Azuki,geometric transformation,flipping,train,1,14,NOT_FOUND,,27,23.333333333333332,1,0,1,3
+Lil_Pudgys_127_dup_con_359.png,Lil_Pudgys_127.png,Lil_Pudgys,content modification,watermark_text,train,1,2,1,2,1,0.0,13,0,1,4
+Lil_Pudgys_186_dup_noi_369.png,Lil_Pudgys_186.png,Lil_Pudgys,noise & compression,gaussian_noise,train,1,0,1,0,1,1.0,13,2,1,4
+Azuki_471_dup_geo_36.png,Azuki_471.png,Azuki,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,1,0,1,4
+Lil_Pudgys_121_dup_noi_385.png,Lil_Pudgys_121.png,Lil_Pudgys,noise & compression,jpeg_artifacts,train,1,0,1,0,1,0.0,21,0,1,4
+Azuki_272_dup_geo_65.png,Azuki_272.png,Azuki,geometric transformation,rotation,train,23,16,24,24,1,19.75,1,2,1,4
+Lil_Pudgys_172_dup_geo_422.png,Lil_Pudgys_172.png,Lil_Pudgys,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,13,19.5,1,0,1,2
+Azuki_80_dup_noi_160.png,Azuki_80.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,1.2,1,0,1,4
+Lil_Pudgys_271_dup_geo_347.png,Lil_Pudgys_271.png,Lil_Pudgys,geometric transformation,cropping,train,8,10,NOT_FOUND,,8,23.25,NOT_FOUND,,8,2
+Bored_Ape_Yacht_Club_330_dup_noi_247.png,Bored_Ape_Yacht_Club_330.png,Bored_Ape_Yacht_Club,noise & compression,gaussian_noise,train,15,9,1,4,1,2.6666666666666665,39,4,1,4
+Bored_Ape_Yacht_Club_333_dup_noi_229.png,Bored_Ape_Yacht_Club_333.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,train,2,0,1,0,1,2.75,1,0,1,4
+Azuki_359_dup_con_18.png,Azuki_359.png,Azuki,content modification,background_tint,train,1,1,1,2,1,3.5,32,2,1,4
+Bored_Ape_Yacht_Club_294_dup_noi_290.png,Bored_Ape_Yacht_Club_294.png,Bored_Ape_Yacht_Club,noise & compression,gaussian_noise,train,1,0,1,0,1,1.0,47,1,1,4
+Bored_Ape_Yacht_Club_196_dup_geo_235.png,Bored_Ape_Yacht_Club_196.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,train,4,0,1,0,1,0.2,3,0,1,4
+Lil_Pudgys_138_dup_noi_415.png,Lil_Pudgys_138.png,Lil_Pudgys,noise & compression,jpeg_artifacts,train,1,0,1,0,1,15.0,11,0,1,4
+Lil_Pudgys_461_dup_con_371.png,Lil_Pudgys_461.png,Lil_Pudgys,content modification,watermark_text,train,1,3,2,2,1,1.5,12,0,1,4
+Bored_Ape_Yacht_Club_231_dup_con_212.png,Bored_Ape_Yacht_Club_231.png,Bored_Ape_Yacht_Club,content modification,border_frame,train,3,15,1,8,1,6.25,16,2,1,4
+Azuki_125_dup_col_36.png,Azuki_125.png,Azuki,color modification,hue_saturation,train,1,0,1,0,1,12.125,NOT_FOUND,,1,3
+Azuki_231_dup_col_122.png,Azuki_231.png,Azuki,color modification,color_tint,train,1,0,1,0,2,17.5,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_345_dup_con_193.png,Bored_Ape_Yacht_Club_345.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,0,1,4,1,0.3333333333333333,3,0,1,4
+Lil_Pudgys_425_dup_col_355.png,Lil_Pudgys_425.png,Lil_Pudgys,color modification,color_tint,train,3,2,1,6,1,16.5,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_62_dup_noi_224.png,Bored_Ape_Yacht_Club_62.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,1,1,1,0,1,1.0,2,0,1,4
+Azuki_355_dup_geo_112.png,Azuki_355.png,Azuki,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,0,1,1
+Bored_Ape_Yacht_Club_229_dup_noi_208.png,Bored_Ape_Yacht_Club_229.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,1,0,1,0,1,1.3333333333333333,16,2,1,4
+Azuki_407_dup_col_152.png,Azuki_407.png,Azuki,color modification,hue_saturation,train,1,2,1,2,1,10.166666666666666,1,0,1,4
+Azuki_367_dup_noi_162.png,Azuki_367.png,Azuki,noise & compression,jpeg_artifacts,train,1,1,1,2,1,0.3333333333333333,1,0,1,4
+Lil_Pudgys_274_dup_col_444.png,Lil_Pudgys_274.png,Lil_Pudgys,color modification,brightness_contrast,train,3,0,1,2,1,2.5,1,0,1,4
+Bored_Ape_Yacht_Club_497_dup_noi_274.png,Bored_Ape_Yacht_Club_497.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,1,0,1,2,1,0.6666666666666666,17,0,1,4
+Lil_Pudgys_94_dup_con_473.png,Lil_Pudgys_94.png,Lil_Pudgys,content modification,border_frame,train,3,16,1,4,1,10.0,20,1,1,4
+Azuki_295_dup_col_146.png,Azuki_295.png,Azuki,color modification,brightness_contrast,train,1,2,1,4,2,20.285714285714285,1,0,1,4
+Bored_Ape_Yacht_Club_187_dup_con_236.png,Bored_Ape_Yacht_Club_187.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,0,2,2,1,0.0,1,0,1,4
+Lil_Pudgys_397_dup_con_450.png,Lil_Pudgys_397.png,Lil_Pudgys,content modification,border_frame,train,16,23,1,6,1,7.0,5,2,1,4
+Bored_Ape_Yacht_Club_281_dup_noi_330.png,Bored_Ape_Yacht_Club_281.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,5.666666666666667,19,2,1,4
+Lil_Pudgys_450_dup_con_368.png,Lil_Pudgys_450.png,Lil_Pudgys,content modification,background_tint,train,2,5,1,2,1,10.5,5,0,1,4
+Bored_Ape_Yacht_Club_391_dup_geo_323.png,Bored_Ape_Yacht_Club_391.png,Bored_Ape_Yacht_Club,geometric transformation,flipping,train,NOT_FOUND,,37,28,NOT_FOUND,,1,0,1,2
+Azuki_224_dup_con_45.png,Azuki_224.png,Azuki,content modification,watermark_text,train,1,0,1,0,1,0.0,1,0,1,4
+Azuki_287_dup_col_42.png,Azuki_287.png,Azuki,color modification,brightness_contrast,train,1,0,1,0,1,3.6666666666666665,NOT_FOUND,,1,3
+Lil_Pudgys_12_dup_con_362.png,Lil_Pudgys_12.png,Lil_Pudgys,content modification,border_frame,train,1,4,1,6,1,8.0,22,4,1,4
+Lil_Pudgys_99_dup_con_424.png,Lil_Pudgys_99.png,Lil_Pudgys,content modification,border_frame,train,13,23,1,10,1,6.333333333333333,1,2,1,4
+Lil_Pudgys_137_dup_noi_346.png,Lil_Pudgys_137.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,5,0,1,2,1,2.0,1,0,1,4
+Lil_Pudgys_110_dup_col_425.png,Lil_Pudgys_110.png,Lil_Pudgys,color modification,brightness_contrast,train,1,0,1,0,1,14.0,10,0,1,4
+Bored_Ape_Yacht_Club_13_dup_con_182.png,Bored_Ape_Yacht_Club_13.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,9,2,1,2,1,2.6666666666666665,4,0,1,4
+Lil_Pudgys_137_dup_col_481.png,Lil_Pudgys_137.png,Lil_Pudgys,color modification,hue_saturation,train,5,0,1,0,1,1.0,NOT_FOUND,,1,3
+Lil_Pudgys_210_dup_col_405.png,Lil_Pudgys_210.png,Lil_Pudgys,color modification,hue_saturation,train,NOT_FOUND,,3,2,1,11.5,NOT_FOUND,,1,2
+Bored_Ape_Yacht_Club_487_dup_con_253.png,Bored_Ape_Yacht_Club_487.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,1,1,0,1,1.3333333333333333,10,0,1,4
+Lil_Pudgys_349_dup_geo_344.png,Lil_Pudgys_349.png,Lil_Pudgys,geometric transformation,aspectratio,train,1,0,1,0,1,0.5,1,0,1,4
+Azuki_62_dup_noi_116.png,Azuki_62.png,Azuki,noise & compression,jpeg_artifacts,train,1,0,1,0,1,0.5,7,1,1,4
+Azuki_283_dup_geo_120.png,Azuki_283.png,Azuki,geometric transformation,cropping,train,4,8,4,18,2,23.833333333333332,4,2,2,4
+Bored_Ape_Yacht_Club_499_dup_geo_173.png,Bored_Ape_Yacht_Club_499.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,train,1,0,1,0,1,0.5,30,1,1,4
+Azuki_307_dup_col_8.png,Azuki_307.png,Azuki,color modification,hue_saturation,train,1,0,1,0,1,0.3333333333333333,1,0,1,4
+Lil_Pudgys_89_dup_geo_455.png,Lil_Pudgys_89.png,Lil_Pudgys,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,2,0,1,4
+Bored_Ape_Yacht_Club_143_dup_col_317.png,Bored_Ape_Yacht_Club_143.png,Bored_Ape_Yacht_Club,color modification,color_tint,train,3,1,1,4,1,4.0,NOT_FOUND,,1,3
+Lil_Pudgys_197_dup_col_393.png,Lil_Pudgys_197.png,Lil_Pudgys,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_289_dup_noi_332.png,Bored_Ape_Yacht_Club_289.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,1,0,1,0,1,1.0,10,0,1,4
+Bored_Ape_Yacht_Club_309_dup_col_292.png,Bored_Ape_Yacht_Club_309.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,1,0,1,0,1,0.0,25,3,1,4
+Lil_Pudgys_209_dup_noi_397.png,Lil_Pudgys_209.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,0,1,5.0,3,0,1,4
+Bored_Ape_Yacht_Club_229_dup_geo_180.png,Bored_Ape_Yacht_Club_229.png,Bored_Ape_Yacht_Club,geometric transformation,rotation,train,12,25,9,18,1,11.666666666666666,4,2,1,4
+Azuki_24_dup_col_19.png,Azuki_24.png,Azuki,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_207_dup_col_131.png,Azuki_207.png,Azuki,color modification,hue_saturation,train,1,1,1,2,1,1.75,1,1,1,4
+Azuki_127_dup_col_34.png,Azuki_127.png,Azuki,color modification,brightness_contrast,train,1,4,1,2,1,10.0,8,3,1,4
+Azuki_186_dup_noi_80.png,Azuki_186.png,Azuki,noise & compression,gaussian_noise,train,1,0,1,0,1,8.8,7,2,1,4
+Azuki_68_dup_con_10.png,Azuki_68.png,Azuki,content modification,watermark_text,train,1,1,1,0,1,0.16666666666666666,1,0,1,4
+Lil_Pudgys_143_dup_col_377.png,Lil_Pudgys_143.png,Lil_Pudgys,color modification,color_tint,train,1,1,1,6,4,13.5,NOT_FOUND,,1,3
+Azuki_478_dup_noi_93.png,Azuki_478.png,Azuki,noise & compression,blurring,train,1,0,1,2,1,0.42857142857142855,7,0,1,4
+Bored_Ape_Yacht_Club_21_dup_con_283.png,Bored_Ape_Yacht_Club_21.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,1,1,2,1,0.6666666666666666,4,0,1,4
+Lil_Pudgys_178_dup_con_432.png,Lil_Pudgys_178.png,Lil_Pudgys,content modification,background_tint,train,1,4,1,2,1,7.5,14,0,1,4
+Bored_Ape_Yacht_Club_371_dup_noi_184.png,Bored_Ape_Yacht_Club_371.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,1,0,1,0,1,1.5,2,1,1,4
+Azuki_42_dup_geo_42.png,Azuki_42.png,Azuki,geometric transformation,rotation,train,NOT_FOUND,,2,20,2,22.714285714285715,5,2,2,3
+Lil_Pudgys_498_dup_geo_431.png,Lil_Pudgys_498.png,Lil_Pudgys,geometric transformation,cropping,train,4,5,33,18,1,15.0,26,0,1,4
+Bored_Ape_Yacht_Club_272_dup_noi_240.png,Bored_Ape_Yacht_Club_272.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,1,0,1,0,1,2.5,24,1,1,4
+Azuki_128_dup_con_98.png,Azuki_128.png,Azuki,content modification,border_frame,train,5,11,1,16,1,15.0,NOT_FOUND,,1,3
+Lil_Pudgys_236_dup_col_429.png,Lil_Pudgys_236.png,Lil_Pudgys,color modification,hue_saturation,train,2,0,1,0,1,3.5,NOT_FOUND,,1,3
+Lil_Pudgys_176_dup_geo_441.png,Lil_Pudgys_176.png,Lil_Pudgys,geometric transformation,aspectratio,train,1,0,1,0,1,1.5,5,0,1,4
+Azuki_212_dup_noi_125.png,Azuki_212.png,Azuki,noise & compression,gaussian_noise,train,1,1,1,2,1,5.5,NOT_FOUND,,1,3
+Lil_Pudgys_424_dup_geo_403.png,Lil_Pudgys_424.png,Lil_Pudgys,geometric transformation,flipping,train,30,6,NOT_FOUND,,1,21.8,17,0,1,3
+Bored_Ape_Yacht_Club_468_dup_con_307.png,Bored_Ape_Yacht_Club_468.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,0,1,0,1,0.2,2,0,1,4
+Azuki_379_dup_geo_100.png,Azuki_379.png,Azuki,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,1,22.0,1,0,1,2
+Azuki_74_dup_col_118.png,Azuki_74.png,Azuki,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Lil_Pudgys_132_dup_noi_422.png,Lil_Pudgys_132.png,Lil_Pudgys,noise & compression,blurring,train,1,0,1,0,1,5.0,1,0,1,4
+Lil_Pudgys_224_dup_noi_419.png,Lil_Pudgys_224.png,Lil_Pudgys,noise & compression,blurring,train,1,0,1,0,1,0.0,1,0,1,4
+Lil_Pudgys_135_dup_col_375.png,Lil_Pudgys_135.png,Lil_Pudgys,color modification,hue_saturation,train,2,0,1,0,1,1.0,NOT_FOUND,,1,3
+Azuki_464_dup_con_117.png,Azuki_464.png,Azuki,content modification,border_frame,train,13,17,1,8,1,4.75,15,2,1,4
+Azuki_347_dup_col_60.png,Azuki_347.png,Azuki,color modification,brightness_contrast,train,1,0,1,4,1,2.0,3,2,1,4
+Azuki_389_dup_con_138.png,Azuki_389.png,Azuki,content modification,border_frame,train,1,7,1,8,1,6.0,NOT_FOUND,,1,3
+Lil_Pudgys_429_dup_noi_356.png,Lil_Pudgys_429.png,Lil_Pudgys,noise & compression,blurring,train,1,0,1,0,1,0.0,1,0,1,4
+Lil_Pudgys_501_dup_col_361.png,Lil_Pudgys_501.png,Lil_Pudgys,color modification,brightness_contrast,train,1,0,1,0,10,17.0,41,3,1,4
+Azuki_430_dup_noi_68.png,Azuki_430.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,1.75,4,0,1,4
+Azuki_265_dup_geo_72.png,Azuki_265.png,Azuki,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,1,0,1,4
+Azuki_373_dup_geo_156.png,Azuki_373.png,Azuki,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,0,1,1
+Bored_Ape_Yacht_Club_273_dup_geo_218.png,Bored_Ape_Yacht_Club_273.png,Bored_Ape_Yacht_Club,geometric transformation,flipping,train,46,12,NOT_FOUND,,NOT_FOUND,,1,0,1,2
+Lil_Pudgys_407_dup_geo_360.png,Lil_Pudgys_407.png,Lil_Pudgys,geometric transformation,aspectratio,train,1,0,1,0,1,3.0,3,0,1,4
+Azuki_346_dup_con_132.png,Azuki_346.png,Azuki,content modification,background_tint,train,1,2,1,2,1,18.333333333333332,1,0,1,4
+Azuki_76_dup_col_73.png,Azuki_76.png,Azuki,color modification,color_tint,train,1,14,1,4,1,14.25,2,2,1,4
+Azuki_162_dup_col_120.png,Azuki_162.png,Azuki,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_147_dup_con_49.png,Azuki_147.png,Azuki,content modification,background_tint,train,1,6,1,2,1,3.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_65_dup_geo_288.png,Bored_Ape_Yacht_Club_65.png,Bored_Ape_Yacht_Club,geometric transformation,flipping,train,1,6,NOT_FOUND,,NOT_FOUND,,3,0,1,2
+Bored_Ape_Yacht_Club_344_dup_col_298.png,Bored_Ape_Yacht_Club_344.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,0,1,0,1,11.2,NOT_FOUND,,1,3
+Azuki_404_dup_col_166.png,Azuki_404.png,Azuki,color modification,hue_saturation,train,1,0,1,0,1,1.3333333333333333,NOT_FOUND,,1,3
+Lil_Pudgys_138_dup_geo_377.png,Lil_Pudgys_138.png,Lil_Pudgys,geometric transformation,cropping,train,9,4,NOT_FOUND,,8,22.333333333333332,23,1,8,3
+Azuki_43_dup_col_79.png,Azuki_43.png,Azuki,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_325_dup_geo_148.png,Azuki_325.png,Azuki,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,2,21.4,1,0,1,2
+Bored_Ape_Yacht_Club_451_dup_con_211.png,Bored_Ape_Yacht_Club_451.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,0,1,2,1,0.25,1,0,1,4
+Azuki_52_dup_con_78.png,Azuki_52.png,Azuki,content modification,watermark_text,train,1,0,1,4,1,13.0,1,0,1,4
+Azuki_18_dup_con_99.png,Azuki_18.png,Azuki,content modification,border_frame,train,2,9,1,8,1,10.666666666666666,1,2,1,4
+Lil_Pudgys_4_dup_noi_453.png,Lil_Pudgys_4.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,0,1,1.0,28,0,1,4
+Bored_Ape_Yacht_Club_368_dup_geo_321.png,Bored_Ape_Yacht_Club_368.png,Bored_Ape_Yacht_Club,geometric transformation,cropping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,20,1,20,1
+Lil_Pudgys_147_dup_con_422.png,Lil_Pudgys_147.png,Lil_Pudgys,content modification,watermark_text,train,1,9,1,2,1,2.5,2,0,1,4
+Lil_Pudgys_424_dup_con_338.png,Lil_Pudgys_424.png,Lil_Pudgys,content modification,border_frame,train,1,4,1,4,1,3.5,17,0,1,4
+Azuki_348_dup_col_35.png,Azuki_348.png,Azuki,color modification,brightness_contrast,train,1,1,1,2,1,7.2727272727272725,NOT_FOUND,,1,3
+Lil_Pudgys_114_dup_col_362.png,Lil_Pudgys_114.png,Lil_Pudgys,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_31_dup_col_319.png,Bored_Ape_Yacht_Club_31.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,0,1,2,1,8.75,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_93_dup_col_242.png,Bored_Ape_Yacht_Club_93.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,0,1,0,1,0.75,NOT_FOUND,,1,3
+Lil_Pudgys_293_dup_geo_352.png,Lil_Pudgys_293.png,Lil_Pudgys,geometric transformation,flipping,train,5,2,NOT_FOUND,,15,18.0,4,0,4,3
+Azuki_211_dup_con_106.png,Azuki_211.png,Azuki,content modification,background_tint,train,1,4,1,2,1,1.8,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_132_dup_geo_243.png,Bored_Ape_Yacht_Club_132.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,train,1,0,1,0,1,1.0,7,0,1,4
+Lil_Pudgys_85_dup_col_422.png,Lil_Pudgys_85.png,Lil_Pudgys,color modification,hue_saturation,train,1,1,1,2,19,20.0,1,0,1,4
+Azuki_153_dup_noi_75.png,Azuki_153.png,Azuki,noise & compression,gaussian_noise,train,1,1,1,0,1,3.1666666666666665,NOT_FOUND,,1,3
+Azuki_74_dup_con_51.png,Azuki_74.png,Azuki,content modification,watermark_text,train,1,1,1,0,1,0.3333333333333333,1,0,1,4
+Azuki_236_dup_col_138.png,Azuki_236.png,Azuki,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Lil_Pudgys_328_dup_col_349.png,Lil_Pudgys_328.png,Lil_Pudgys,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_450_dup_con_34.png,Azuki_450.png,Azuki,content modification,border_frame,train,1,3,1,4,1,7.25,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_98_dup_geo_251.png,Bored_Ape_Yacht_Club_98.png,Bored_Ape_Yacht_Club,geometric transformation,cropping,train,NOT_FOUND,,NOT_FOUND,,1,22.636363636363637,NOT_FOUND,,1,1
+Azuki_477_dup_noi_65.png,Azuki_477.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,1.3333333333333333,2,0,1,4
+Azuki_8_dup_geo_83.png,Azuki_8.png,Azuki,geometric transformation,aspectratio,train,1,0,1,2,1,0.0,1,0,1,4
+Azuki_292_dup_col_50.png,Azuki_292.png,Azuki,color modification,hue_saturation,train,1,0,1,0,1,8.11111111111111,15,2,1,4
+Azuki_378_dup_noi_118.png,Azuki_378.png,Azuki,noise & compression,blurring,train,1,0,1,0,1,1.9,1,0,1,4
+Azuki_169_dup_geo_152.png,Azuki_169.png,Azuki,geometric transformation,rotation,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,0,1,1
+Azuki_235_dup_col_76.png,Azuki_235.png,Azuki,color modification,hue_saturation,train,1,0,1,0,1,0.75,44,2,1,4
+Bored_Ape_Yacht_Club_263_dup_col_296.png,Bored_Ape_Yacht_Club_263.png,Bored_Ape_Yacht_Club,color modification,color_tint,train,2,1,1,4,1,8.5,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_178_dup_con_288.png,Bored_Ape_Yacht_Club_178.png,Bored_Ape_Yacht_Club,content modification,border_frame,train,1,2,1,12,1,6.5,3,1,1,4
+Azuki_190_dup_noi_144.png,Azuki_190.png,Azuki,noise & compression,jpeg_artifacts,train,1,1,1,0,1,1.4545454545454546,1,0,1,4
+Lil_Pudgys_135_dup_con_440.png,Lil_Pudgys_135.png,Lil_Pudgys,content modification,background_tint,train,2,4,1,0,1,9.0,1,0,1,4
+Lil_Pudgys_481_dup_con_420.png,Lil_Pudgys_481.png,Lil_Pudgys,content modification,background_tint,train,1,7,1,2,1,12.333333333333334,17,0,1,4
+Lil_Pudgys_238_dup_col_363.png,Lil_Pudgys_238.png,Lil_Pudgys,color modification,color_tint,train,2,0,1,2,1,0.0,29,0,1,4
+Lil_Pudgys_497_dup_noi_450.png,Lil_Pudgys_497.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,0,1,0.5,1,0,1,4
+Lil_Pudgys_511_dup_con_456.png,Lil_Pudgys_511.png,Lil_Pudgys,content modification,border_frame,train,NOT_FOUND,,1,6,1,4.333333333333333,20,0,1,3
+Bored_Ape_Yacht_Club_1_dup_geo_245.png,Bored_Ape_Yacht_Club_1.png,Bored_Ape_Yacht_Club,geometric transformation,rotation,train,13,22,8,12,1,17.75,3,1,1,4
+Bored_Ape_Yacht_Club_410_dup_noi_271.png,Bored_Ape_Yacht_Club_410.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,train,2,0,1,0,1,1.3333333333333333,5,0,1,4
+Azuki_4_dup_col_62.png,Azuki_4.png,Azuki,color modification,color_tint,train,1,1,1,2,1,1.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_14_dup_geo_304.png,Bored_Ape_Yacht_Club_14.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,train,1,0,1,0,1,9.4,7,0,1,4
+Bored_Ape_Yacht_Club_364_dup_geo_196.png,Bored_Ape_Yacht_Club_364.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,train,1,0,1,0,1,0.3333333333333333,1,0,1,4
+Lil_Pudgys_251_dup_noi_382.png,Lil_Pudgys_251.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,1,1,0,1,1.0,12,0,1,4
+Bored_Ape_Yacht_Club_353_dup_con_216.png,Bored_Ape_Yacht_Club_353.png,Bored_Ape_Yacht_Club,content modification,border_frame,train,1,3,1,4,1,3.0,19,1,1,4
+Lil_Pudgys_404_dup_geo_480.png,Lil_Pudgys_404.png,Lil_Pudgys,geometric transformation,cropping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,7,3,7,1
+Lil_Pudgys_322_dup_geo_462.png,Lil_Pudgys_322.png,Lil_Pudgys,geometric transformation,flipping,train,1,2,NOT_FOUND,,NOT_FOUND,,4,0,1,2
+Lil_Pudgys_209_dup_geo_458.png,Lil_Pudgys_209.png,Lil_Pudgys,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,3,0,3,1
+Azuki_293_dup_geo_16.png,Azuki_293.png,Azuki,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,2,0,1,4
+Bored_Ape_Yacht_Club_137_dup_geo_205.png,Bored_Ape_Yacht_Club_137.png,Bored_Ape_Yacht_Club,geometric transformation,cropping,train,6,11,39,20,4,14.5,48,2,4,4
+Azuki_266_dup_noi_26.png,Azuki_266.png,Azuki,noise & compression,jpeg_artifacts,train,1,1,1,2,1,1.1428571428571428,2,1,1,4
+Lil_Pudgys_462_dup_geo_417.png,Lil_Pudgys_462.png,Lil_Pudgys,geometric transformation,flipping,train,8,2,NOT_FOUND,,14,21.333333333333332,16,0,8,3
+Bored_Ape_Yacht_Club_116_dup_noi_189.png,Bored_Ape_Yacht_Club_116.png,Bored_Ape_Yacht_Club,noise & compression,gaussian_noise,train,2,0,1,0,1,1.0,3,2,1,4
+Bored_Ape_Yacht_Club_274_dup_noi_283.png,Bored_Ape_Yacht_Club_274.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,5.0,2,0,1,4
+Azuki_346_dup_col_66.png,Azuki_346.png,Azuki,color modification,brightness_contrast,train,1,0,1,4,2,18.333333333333332,1,2,1,4
+Lil_Pudgys_416_dup_col_460.png,Lil_Pudgys_416.png,Lil_Pudgys,color modification,color_tint,train,1,0,1,0,1,7.333333333333333,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_0_dup_noi_269.png,Bored_Ape_Yacht_Club_0.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,2,0,1,0,1,1.2,2,0,1,4
+Lil_Pudgys_161_dup_geo_437.png,Lil_Pudgys_161.png,Lil_Pudgys,geometric transformation,cropping,train,5,6,NOT_FOUND,,NOT_FOUND,,7,1,5,2
+Azuki_185_dup_col_90.png,Azuki_185.png,Azuki,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_318_dup_geo_189.png,Bored_Ape_Yacht_Club_318.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,train,1,0,1,0,1,0.75,1,0,1,4
+Bored_Ape_Yacht_Club_470_dup_con_274.png,Bored_Ape_Yacht_Club_470.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,4,5,1,2,1,15.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_412_dup_col_314.png,Bored_Ape_Yacht_Club_412.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_473_dup_col_227.png,Bored_Ape_Yacht_Club_473.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,train,2,0,1,0,3,21.25,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_37_dup_geo_223.png,Bored_Ape_Yacht_Club_37.png,Bored_Ape_Yacht_Club,geometric transformation,rotation,train,NOT_FOUND,,NOT_FOUND,,3,17.25,12,1,3,2
+Lil_Pudgys_227_dup_noi_358.png,Lil_Pudgys_227.png,Lil_Pudgys,noise & compression,jpeg_artifacts,train,1,0,1,0,1,0.6666666666666666,7,0,1,4
+Lil_Pudgys_401_dup_con_439.png,Lil_Pudgys_401.png,Lil_Pudgys,content modification,border_frame,train,NOT_FOUND,,1,6,1,8.333333333333334,22,2,1,3
+Azuki_293_dup_col_31.png,Azuki_293.png,Azuki,color modification,hue_saturation,train,1,0,1,0,1,3.25,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_99_dup_con_313.png,Bored_Ape_Yacht_Club_99.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,11,7,1,4,1,1.5,2,0,1,4
+Bored_Ape_Yacht_Club_48_dup_con_297.png,Bored_Ape_Yacht_Club_48.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,5,1,1,2,1,3.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_482_dup_noi_177.png,Bored_Ape_Yacht_Club_482.png,Bored_Ape_Yacht_Club,noise & compression,gaussian_noise,train,5,0,1,0,1,2.8,NOT_FOUND,,1,3
+Azuki_164_dup_geo_133.png,Azuki_164.png,Azuki,geometric transformation,aspectratio,train,1,0,1,0,1,0.3333333333333333,1,0,1,4
+Bored_Ape_Yacht_Club_491_dup_col_252.png,Bored_Ape_Yacht_Club_491.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,train,3,0,1,0,1,0.25,4,0,1,4
+Bored_Ape_Yacht_Club_300_dup_col_186.png,Bored_Ape_Yacht_Club_300.png,Bored_Ape_Yacht_Club,color modification,color_tint,train,1,0,1,0,1,1.25,38,2,1,4
+Bored_Ape_Yacht_Club_235_dup_geo_221.png,Bored_Ape_Yacht_Club_235.png,Bored_Ape_Yacht_Club,geometric transformation,rotation,train,12,22,4,14,1,13.0,10,3,1,4
+Bored_Ape_Yacht_Club_495_dup_col_217.png,Bored_Ape_Yacht_Club_495.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,1,0,2,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_163_dup_col_267.png,Bored_Ape_Yacht_Club_163.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,0,1,2,1,8.0,NOT_FOUND,,1,3
+Lil_Pudgys_304_dup_con_471.png,Lil_Pudgys_304.png,Lil_Pudgys,content modification,watermark_text,train,4,1,1,8,2,15.5,4,0,1,4
+Lil_Pudgys_287_dup_noi_335.png,Lil_Pudgys_287.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,0,1,10.333333333333334,4,0,1,4
+Azuki_355_dup_col_141.png,Azuki_355.png,Azuki,color modification,color_tint,train,1,0,1,0,1,7.333333333333333,10,3,1,4
+Lil_Pudgys_311_dup_col_448.png,Lil_Pudgys_311.png,Lil_Pudgys,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Lil_Pudgys_147_dup_col_347.png,Lil_Pudgys_147.png,Lil_Pudgys,color modification,brightness_contrast,train,1,0,1,0,50,22.666666666666668,2,0,1,4
+Lil_Pudgys_312_dup_geo_457.png,Lil_Pudgys_312.png,Lil_Pudgys,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,1,0,1,4
+Bored_Ape_Yacht_Club_410_dup_col_245.png,Bored_Ape_Yacht_Club_410.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,2,0,1,0,1,0.0,39,3,1,4
+Azuki_163_dup_con_153.png,Azuki_163.png,Azuki,content modification,watermark_text,train,1,2,1,2,1,2.857142857142857,1,0,1,4
+Bored_Ape_Yacht_Club_345_dup_noi_324.png,Bored_Ape_Yacht_Club_345.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,1,0,1,2,1,4.5,NOT_FOUND,,1,3
+Lil_Pudgys_504_dup_col_469.png,Lil_Pudgys_504.png,Lil_Pudgys,color modification,hue_saturation,train,1,0,1,0,1,11.333333333333334,3,0,1,4
+Lil_Pudgys_320_dup_col_452.png,Lil_Pudgys_320.png,Lil_Pudgys,color modification,hue_saturation,train,1,0,1,0,2,14.5,20,0,1,4
+Bored_Ape_Yacht_Club_318_dup_con_174.png,Bored_Ape_Yacht_Club_318.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,NOT_FOUND,,1,2,1,4.25,11,3,1,3
+Lil_Pudgys_239_dup_geo_424.png,Lil_Pudgys_239.png,Lil_Pudgys,geometric transformation,cropping,train,10,6,NOT_FOUND,,37,24.2,23,4,10,3
+Lil_Pudgys_506_dup_con_426.png,Lil_Pudgys_506.png,Lil_Pudgys,content modification,watermark_text,train,1,6,2,2,1,3.5,14,0,1,4
+Azuki_368_dup_con_161.png,Azuki_368.png,Azuki,content modification,border_frame,train,1,2,1,2,1,5.0,NOT_FOUND,,1,3
+Lil_Pudgys_259_dup_geo_434.png,Lil_Pudgys_259.png,Lil_Pudgys,geometric transformation,rotation,train,28,23,1,10,3,22.166666666666668,1,1,1,4
+Bored_Ape_Yacht_Club_170_dup_col_322.png,Bored_Ape_Yacht_Club_170.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,0,1,0,1,1.3333333333333333,NOT_FOUND,,1,3
+Azuki_192_dup_con_97.png,Azuki_192.png,Azuki,content modification,border_frame,train,1,0,1,6,1,1.25,NOT_FOUND,,1,3
+Azuki_128_dup_geo_122.png,Azuki_128.png,Azuki,geometric transformation,flipping,train,7,6,NOT_FOUND,,1,19.75,1,0,1,3
+Bored_Ape_Yacht_Club_159_dup_noi_242.png,Bored_Ape_Yacht_Club_159.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,train,2,1,1,0,1,1.75,2,0,1,4
+Bored_Ape_Yacht_Club_215_dup_noi_292.png,Bored_Ape_Yacht_Club_215.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,1,5,1,0,1,1.75,2,2,1,4
+Azuki_199_dup_noi_143.png,Azuki_199.png,Azuki,noise & compression,blurring,train,1,0,1,0,1,0.4,1,0,1,4
+Lil_Pudgys_164_dup_geo_421.png,Lil_Pudgys_164.png,Lil_Pudgys,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,11,21.0,1,0,1,2
+Lil_Pudgys_107_dup_con_397.png,Lil_Pudgys_107.png,Lil_Pudgys,content modification,watermark_text,train,1,0,1,0,1,0.5,19,0,1,4
+Bored_Ape_Yacht_Club_4_dup_col_193.png,Bored_Ape_Yacht_Club_4.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Lil_Pudgys_449_dup_geo_487.png,Lil_Pudgys_449.png,Lil_Pudgys,geometric transformation,cropping,train,5,2,NOT_FOUND,,6,17.0,5,0,5,3
+Azuki_394_dup_col_47.png,Azuki_394.png,Azuki,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_391_dup_geo_88.png,Azuki_391.png,Azuki,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,2,0,1,4
+Azuki_210_dup_col_111.png,Azuki_210.png,Azuki,color modification,brightness_contrast,train,1,2,1,2,NOT_FOUND,,1,0,1,3
+Bored_Ape_Yacht_Club_254_dup_con_254.png,Bored_Ape_Yacht_Club_254.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,3,0,1,0,1,0.75,1,0,1,4
+Bored_Ape_Yacht_Club_499_dup_noi_214.png,Bored_Ape_Yacht_Club_499.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,4.75,30,1,1,4
+Bored_Ape_Yacht_Club_15_dup_col_172.png,Bored_Ape_Yacht_Club_15.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,train,1,0,1,0,1,2.0,1,0,1,4
+Lil_Pudgys_110_dup_geo_499.png,Lil_Pudgys_110.png,Lil_Pudgys,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,10,0,1,4
+Bored_Ape_Yacht_Club_60_dup_col_212.png,Bored_Ape_Yacht_Club_60.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,0,1,2,6,22.4,NOT_FOUND,,1,3
+Azuki_298_dup_noi_104.png,Azuki_298.png,Azuki,noise & compression,jpeg_artifacts,train,1,0,1,0,1,5.0,1,0,1,4
+Azuki_71_dup_con_19.png,Azuki_71.png,Azuki,content modification,border_frame,train,1,10,2,12,NOT_FOUND,,2,1,1,3
+Lil_Pudgys_244_dup_col_433.png,Lil_Pudgys_244.png,Lil_Pudgys,color modification,hue_saturation,train,1,0,1,0,1,12.333333333333334,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_342_dup_noi_279.png,Bored_Ape_Yacht_Club_342.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,train,1,0,1,0,1,1.6666666666666667,10,0,1,4
+Bored_Ape_Yacht_Club_378_dup_noi_212.png,Bored_Ape_Yacht_Club_378.png,Bored_Ape_Yacht_Club,noise & compression,gaussian_noise,train,1,0,1,2,1,0.0,32,1,1,4
+Azuki_447_dup_noi_84.png,Azuki_447.png,Azuki,noise & compression,blurring,train,1,0,1,0,1,6.875,2,0,1,4
+Lil_Pudgys_501_dup_geo_489.png,Lil_Pudgys_501.png,Lil_Pudgys,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,0,1,1
+Bored_Ape_Yacht_Club_267_dup_noi_327.png,Bored_Ape_Yacht_Club_267.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,1,1,0,1,3.3333333333333335,9,0,1,4
+Lil_Pudgys_175_dup_geo_474.png,Lil_Pudgys_175.png,Lil_Pudgys,geometric transformation,cropping,train,1,13,48,24,4,23.0,2,0,1,4
+Azuki_11_dup_con_52.png,Azuki_11.png,Azuki,content modification,watermark_text,train,1,0,1,2,1,0.14285714285714285,2,0,1,4
+Azuki_248_dup_geo_115.png,Azuki_248.png,Azuki,geometric transformation,rotation,train,27,17,1,18,NOT_FOUND,,6,2,1,3
+Bored_Ape_Yacht_Club_314_dup_geo_181.png,Bored_Ape_Yacht_Club_314.png,Bored_Ape_Yacht_Club,geometric transformation,flipping,train,12,8,NOT_FOUND,,NOT_FOUND,,1,0,1,2
+Bored_Ape_Yacht_Club_372_dup_con_301.png,Bored_Ape_Yacht_Club_372.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,1,1,1,2,1,4.2,26,4,1,4
+Bored_Ape_Yacht_Club_443_dup_col_280.png,Bored_Ape_Yacht_Club_443.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,0,1,2,1,3.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_287_dup_geo_246.png,Bored_Ape_Yacht_Club_287.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,train,1,0,1,0,1,0.3333333333333333,3,0,1,4
+Lil_Pudgys_455_dup_noi_416.png,Lil_Pudgys_455.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,0,1,2.0,10,0,1,4
+Lil_Pudgys_378_dup_geo_378.png,Lil_Pudgys_378.png,Lil_Pudgys,geometric transformation,rotation,train,NOT_FOUND,,37,26,2,20.0,1,1,1,3
+Bored_Ape_Yacht_Club_196_dup_con_262.png,Bored_Ape_Yacht_Club_196.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,4,0,1,0,1,2.2,4,1,1,4
+Lil_Pudgys_229_dup_noi_475.png,Lil_Pudgys_229.png,Lil_Pudgys,noise & compression,blurring,train,1,0,1,0,1,0.0,31,0,1,4
+Azuki_330_dup_noi_96.png,Azuki_330.png,Azuki,noise & compression,jpeg_artifacts,train,1,0,1,0,1,1.0,2,0,1,4
+Azuki_287_dup_noi_69.png,Azuki_287.png,Azuki,noise & compression,gaussian_noise,train,1,0,1,0,1,3.5,NOT_FOUND,,1,3
+Lil_Pudgys_264_dup_geo_498.png,Lil_Pudgys_264.png,Lil_Pudgys,geometric transformation,rotation,train,4,18,NOT_FOUND,,NOT_FOUND,,1,0,1,2
+Azuki_60_dup_col_37.png,Azuki_60.png,Azuki,color modification,hue_saturation,train,1,0,1,0,1,0.5,2,2,1,4
+Bored_Ape_Yacht_Club_91_dup_geo_194.png,Bored_Ape_Yacht_Club_91.png,Bored_Ape_Yacht_Club,geometric transformation,rotation,train,NOT_FOUND,,17,18,23,21.8,3,2,3,3
+Azuki_311_dup_col_77.png,Azuki_311.png,Azuki,color modification,color_tint,train,1,3,1,0,1,1.3333333333333333,8,1,1,4
+Azuki_306_dup_con_127.png,Azuki_306.png,Azuki,content modification,background_tint,train,1,1,1,2,1,3.75,NOT_FOUND,,1,3
+Azuki_356_dup_noi_34.png,Azuki_356.png,Azuki,noise & compression,jpeg_artifacts,train,1,0,1,0,1,0.8888888888888888,3,1,1,4
+Azuki_40_dup_noi_22.png,Azuki_40.png,Azuki,noise & compression,gaussian_noise,train,1,0,1,0,1,1.1666666666666667,30,6,1,4
+Bored_Ape_Yacht_Club_201_dup_con_184.png,Bored_Ape_Yacht_Club_201.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,1,11,1,4,1,3.6666666666666665,16,2,1,4
+Bored_Ape_Yacht_Club_229_dup_col_306.png,Bored_Ape_Yacht_Club_229.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,0,1,0,1,0.5,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_131_dup_geo_195.png,Bored_Ape_Yacht_Club_131.png,Bored_Ape_Yacht_Club,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,4,0,4,1
+Bored_Ape_Yacht_Club_24_dup_con_247.png,Bored_Ape_Yacht_Club_24.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,1,3,4,1,1.6666666666666667,1,0,1,4
+Azuki_45_dup_con_53.png,Azuki_45.png,Azuki,content modification,watermark_text,train,1,0,1,2,1,0.3333333333333333,2,1,1,4
+Bored_Ape_Yacht_Club_77_dup_geo_328.png,Bored_Ape_Yacht_Club_77.png,Bored_Ape_Yacht_Club,geometric transformation,cropping,train,NOT_FOUND,,NOT_FOUND,,47,23.0,1,0,1,2
+Bored_Ape_Yacht_Club_191_dup_con_214.png,Bored_Ape_Yacht_Club_191.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,1,2,2,4,1,3.0,7,1,1,4
+Lil_Pudgys_432_dup_geo_400.png,Lil_Pudgys_432.png,Lil_Pudgys,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,0,1,1
+Lil_Pudgys_329_dup_geo_481.png,Lil_Pudgys_329.png,Lil_Pudgys,geometric transformation,rotation,train,40,27,1,10,9,23.666666666666668,14,4,1,4
+Azuki_224_dup_col_139.png,Azuki_224.png,Azuki,color modification,color_tint,train,1,0,1,2,1,1.0,NOT_FOUND,,1,3
+Azuki_205_dup_col_116.png,Azuki_205.png,Azuki,color modification,color_tint,train,1,0,1,0,1,6.5,NOT_FOUND,,1,3
+Lil_Pudgys_148_dup_geo_484.png,Lil_Pudgys_148.png,Lil_Pudgys,geometric transformation,rotation,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,0,1,1
+Lil_Pudgys_314_dup_col_358.png,Lil_Pudgys_314.png,Lil_Pudgys,color modification,color_tint,train,9,4,1,6,1,6.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_120_dup_con_290.png,Bored_Ape_Yacht_Club_120.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,1,1,2,1,0.0,1,0,1,4
+Bored_Ape_Yacht_Club_155_dup_col_321.png,Bored_Ape_Yacht_Club_155.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Lil_Pudgys_393_dup_con_353.png,Lil_Pudgys_393.png,Lil_Pudgys,content modification,watermark_text,train,1,0,1,0,1,0.6666666666666666,4,1,1,4
+Azuki_174_dup_noi_62.png,Azuki_174.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,1.0,1,0,1,4
+Azuki_370_dup_col_142.png,Azuki_370.png,Azuki,color modification,hue_saturation,train,1,1,1,0,1,7.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_352_dup_noi_333.png,Bored_Ape_Yacht_Club_352.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,3.5,1,0,1,4
+Lil_Pudgys_140_dup_col_417.png,Lil_Pudgys_140.png,Lil_Pudgys,color modification,color_tint,train,1,2,1,2,1,6.5,NOT_FOUND,,1,3
+Azuki_185_dup_noi_74.png,Azuki_185.png,Azuki,noise & compression,gaussian_noise,train,1,0,1,0,1,3.2,NOT_FOUND,,1,3
+Azuki_35_dup_con_162.png,Azuki_35.png,Azuki,content modification,border_frame,train,1,1,1,8,1,5.0,2,1,1,4
+Lil_Pudgys_469_dup_con_470.png,Lil_Pudgys_469.png,Lil_Pudgys,content modification,border_frame,train,NOT_FOUND,,1,6,1,6.0,30,1,1,3
+Lil_Pudgys_445_dup_col_399.png,Lil_Pudgys_445.png,Lil_Pudgys,color modification,grayscale,train,2,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_342_dup_noi_100.png,Azuki_342.png,Azuki,noise & compression,gaussian_noise,train,1,0,1,2,1,1.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_172_dup_noi_175.png,Bored_Ape_Yacht_Club_172.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,3.75,1,0,1,4
+Azuki_220_dup_con_56.png,Azuki_220.png,Azuki,content modification,watermark_text,train,1,0,1,0,1,0.6666666666666666,3,0,1,4
+Bored_Ape_Yacht_Club_31_dup_con_209.png,Bored_Ape_Yacht_Club_31.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,9,2,1,2,1,4.333333333333333,1,0,1,4
+Azuki_118_dup_geo_60.png,Azuki_118.png,Azuki,geometric transformation,cropping,train,NOT_FOUND,,NOT_FOUND,,1,20.5,3,4,1,2
+Azuki_84_dup_geo_43.png,Azuki_84.png,Azuki,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,2,22.8,1,0,1,2
+Lil_Pudgys_283_dup_geo_351.png,Lil_Pudgys_283.png,Lil_Pudgys,geometric transformation,flipping,train,1,8,NOT_FOUND,,1,18.0,8,0,1,3
+Lil_Pudgys_246_dup_con_388.png,Lil_Pudgys_246.png,Lil_Pudgys,content modification,watermark_text,train,1,2,1,4,1,7.0,1,0,1,4
+Lil_Pudgys_275_dup_noi_409.png,Lil_Pudgys_275.png,Lil_Pudgys,noise & compression,blurring,train,1,0,1,0,1,0.0,25,0,1,4
+Lil_Pudgys_211_dup_geo_460.png,Lil_Pudgys_211.png,Lil_Pudgys,geometric transformation,cropping,train,20,9,31,20,1,19.25,1,1,1,4
+Bored_Ape_Yacht_Club_335_dup_con_169.png,Bored_Ape_Yacht_Club_335.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,6,4,1,2,1,9.8,3,0,1,4
+Lil_Pudgys_178_dup_col_338.png,Lil_Pudgys_178.png,Lil_Pudgys,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_145_dup_col_190.png,Bored_Ape_Yacht_Club_145.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,0,1,0,1,9.571428571428571,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_4_dup_con_263.png,Bored_Ape_Yacht_Club_4.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,2,1,1,2,1,1.4,28,1,1,4
+Azuki_492_dup_con_63.png,Azuki_492.png,Azuki,content modification,watermark_text,train,1,0,1,2,1,0.5,2,0,1,4
+Azuki_224_dup_geo_4.png,Azuki_224.png,Azuki,geometric transformation,rotation,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,2,1,1
+Azuki_61_dup_geo_154.png,Azuki_61.png,Azuki,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,1,0,1,4
+Azuki_379_dup_noi_123.png,Azuki_379.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,0.8,1,0,1,4
+Bored_Ape_Yacht_Club_116_dup_con_217.png,Bored_Ape_Yacht_Club_116.png,Bored_Ape_Yacht_Club,content modification,border_frame,train,NOT_FOUND,,8,12,1,5.333333333333333,12,2,1,3
+Bored_Ape_Yacht_Club_376_dup_noi_267.png,Bored_Ape_Yacht_Club_376.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,0.6666666666666666,3,2,1,4
+Azuki_183_dup_con_27.png,Azuki_183.png,Azuki,content modification,border_frame,train,1,4,1,8,1,13.8,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_75_dup_con_268.png,Bored_Ape_Yacht_Club_75.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,2,2,1,4,1,1.3333333333333333,23,1,1,4
+Lil_Pudgys_151_dup_noi_372.png,Lil_Pudgys_151.png,Lil_Pudgys,noise & compression,gaussian_noise,train,1,0,1,0,1,3.3333333333333335,NOT_FOUND,,1,3
+Azuki_157_dup_col_69.png,Azuki_157.png,Azuki,color modification,color_tint,train,1,0,1,2,1,1.3333333333333333,1,0,1,4
+Bored_Ape_Yacht_Club_37_dup_noi_285.png,Bored_Ape_Yacht_Club_37.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,3,0,1,2,1,5.5,31,2,1,4
+Lil_Pudgys_353_dup_noi_362.png,Lil_Pudgys_353.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,0,1,0.3333333333333333,1,0,1,4
+Lil_Pudgys_273_dup_geo_464.png,Lil_Pudgys_273.png,Lil_Pudgys,geometric transformation,rotation,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,1,1,1
+Azuki_345_dup_con_120.png,Azuki_345.png,Azuki,content modification,background_tint,train,1,1,1,2,1,4.6,2,0,1,4
+Lil_Pudgys_194_dup_geo_475.png,Lil_Pudgys_194.png,Lil_Pudgys,geometric transformation,aspectratio,train,1,0,1,0,1,0.3333333333333333,2,0,1,4
+Lil_Pudgys_448_dup_col_470.png,Lil_Pudgys_448.png,Lil_Pudgys,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Lil_Pudgys_481_dup_noi_355.png,Lil_Pudgys_481.png,Lil_Pudgys,noise & compression,blurring,train,1,0,1,0,1,0.0,17,0,1,4
+Azuki_162_dup_geo_7.png,Azuki_162.png,Azuki,geometric transformation,cropping,train,5,14,7,22,NOT_FOUND,,3,1,3,3
+Azuki_76_dup_geo_137.png,Azuki_76.png,Azuki,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,20,24.25,1,0,1,2
+Azuki_164_dup_col_133.png,Azuki_164.png,Azuki,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_108_dup_noi_179.png,Bored_Ape_Yacht_Club_108.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,1.6666666666666667,40,2,1,4
+Lil_Pudgys_188_dup_col_447.png,Lil_Pudgys_188.png,Lil_Pudgys,color modification,brightness_contrast,train,1,0,1,0,1,6.75,NOT_FOUND,,1,3
+Azuki_237_dup_col_132.png,Azuki_237.png,Azuki,color modification,brightness_contrast,train,1,0,1,2,1,1.3333333333333333,NOT_FOUND,,1,3
+Azuki_63_dup_con_8.png,Azuki_63.png,Azuki,content modification,border_frame,train,1,5,2,12,1,19.2,1,6,1,4
+Bored_Ape_Yacht_Club_193_dup_col_226.png,Bored_Ape_Yacht_Club_193.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,train,1,0,1,2,2,22.4,1,0,1,4
+Lil_Pudgys_138_dup_col_430.png,Lil_Pudgys_138.png,Lil_Pudgys,color modification,hue_saturation,train,1,0,1,0,1,3.0,11,0,1,4
+Azuki_210_dup_con_130.png,Azuki_210.png,Azuki,content modification,border_frame,train,1,5,1,6,1,8.0,5,2,1,4
+Azuki_161_dup_con_4.png,Azuki_161.png,Azuki,content modification,background_tint,train,6,4,1,4,1,11.333333333333334,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_146_dup_geo_331.png,Bored_Ape_Yacht_Club_146.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,train,2,0,1,0,1,0.3333333333333333,1,0,1,4
+Bored_Ape_Yacht_Club_362_dup_noi_183.png,Bored_Ape_Yacht_Club_362.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,4.666666666666667,2,0,1,4
+Bored_Ape_Yacht_Club_405_dup_con_264.png,Bored_Ape_Yacht_Club_405.png,Bored_Ape_Yacht_Club,content modification,border_frame,train,1,5,8,10,1,6.666666666666667,11,1,1,4
+Bored_Ape_Yacht_Club_118_dup_noi_181.png,Bored_Ape_Yacht_Club_118.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,1,0,1,0,1,0.8571428571428571,9,0,1,4
+Lil_Pudgys_194_dup_col_423.png,Lil_Pudgys_194.png,Lil_Pudgys,color modification,color_tint,train,1,0,1,0,1,10.0,NOT_FOUND,,1,3
+Azuki_72_dup_geo_96.png,Azuki_72.png,Azuki,geometric transformation,cropping,train,NOT_FOUND,,NOT_FOUND,,1,21.375,NOT_FOUND,,1,1
+Lil_Pudgys_271_dup_con_435.png,Lil_Pudgys_271.png,Lil_Pudgys,content modification,background_tint,train,1,4,2,4,1,6.0,1,1,1,4
+Azuki_412_dup_geo_97.png,Azuki_412.png,Azuki,geometric transformation,rotation,train,NOT_FOUND,,25,22,NOT_FOUND,,1,0,1,2
+Bored_Ape_Yacht_Club_318_dup_noi_293.png,Bored_Ape_Yacht_Club_318.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,1,2,1,0,1,2.25,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_72_dup_geo_312.png,Bored_Ape_Yacht_Club_72.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,train,2,0,1,0,1,0.6666666666666666,1,0,1,4
+Azuki_111_dup_geo_18.png,Azuki_111.png,Azuki,geometric transformation,rotation,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,2,1,1
+Bored_Ape_Yacht_Club_6_dup_noi_190.png,Bored_Ape_Yacht_Club_6.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,train,1,0,1,2,1,0.6666666666666666,8,0,1,4
+Lil_Pudgys_488_dup_geo_442.png,Lil_Pudgys_488.png,Lil_Pudgys,geometric transformation,cropping,train,22,6,NOT_FOUND,,17,23.5,11,0,11,3
+Lil_Pudgys_265_dup_col_344.png,Lil_Pudgys_265.png,Lil_Pudgys,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_322_dup_col_285.png,Bored_Ape_Yacht_Club_322.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_476_dup_con_291.png,Bored_Ape_Yacht_Club_476.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,2,2,1,2,1,3.2,NOT_FOUND,,1,3
+Azuki_480_dup_noi_52.png,Azuki_480.png,Azuki,noise & compression,jpeg_artifacts,train,1,0,1,0,1,0.0,6,2,1,4
+Bored_Ape_Yacht_Club_419_dup_noi_287.png,Bored_Ape_Yacht_Club_419.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,train,1,0,1,0,1,3.0,8,1,1,4
+Lil_Pudgys_253_dup_con_399.png,Lil_Pudgys_253.png,Lil_Pudgys,content modification,watermark_text,train,1,1,2,4,1,0.5,1,0,1,4
+Bored_Ape_Yacht_Club_249_dup_col_286.png,Bored_Ape_Yacht_Club_249.png,Bored_Ape_Yacht_Club,color modification,color_tint,train,1,0,1,0,1,2.0,39,2,1,4
+Bored_Ape_Yacht_Club_142_dup_con_292.png,Bored_Ape_Yacht_Club_142.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,0,1,0,1,0.0,20,0,1,4
+Lil_Pudgys_73_dup_col_483.png,Lil_Pudgys_73.png,Lil_Pudgys,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Lil_Pudgys_345_dup_con_405.png,Lil_Pudgys_345.png,Lil_Pudgys,content modification,background_tint,train,2,2,1,0,1,10.5,21,4,1,4
+Bored_Ape_Yacht_Club_33_dup_noi_260.png,Bored_Ape_Yacht_Club_33.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,train,1,0,1,0,1,4.25,1,0,1,4
+Lil_Pudgys_497_dup_con_364.png,Lil_Pudgys_497.png,Lil_Pudgys,content modification,border_frame,train,NOT_FOUND,,7,8,2,10.5,1,1,1,3
+Lil_Pudgys_16_dup_geo_398.png,Lil_Pudgys_16.png,Lil_Pudgys,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,0,1,1
+Azuki_122_dup_con_151.png,Azuki_122.png,Azuki,content modification,watermark_text,train,1,0,1,2,1,4.0,6,3,1,4
+Azuki_451_dup_col_46.png,Azuki_451.png,Azuki,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_44_dup_geo_3.png,Azuki_44.png,Azuki,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,3,0,3,1
+Azuki_41_dup_geo_10.png,Azuki_41.png,Azuki,geometric transformation,cropping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,0
+Lil_Pudgys_489_dup_geo_461.png,Lil_Pudgys_489.png,Lil_Pudgys,geometric transformation,rotation,train,29,22,NOT_FOUND,,1,22.142857142857142,3,2,1,3
+Lil_Pudgys_340_dup_con_469.png,Lil_Pudgys_340.png,Lil_Pudgys,content modification,watermark_text,train,1,0,1,0,1,1.3333333333333333,7,0,1,4
+Azuki_4_dup_noi_2.png,Azuki_4.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,0.6,1,0,1,4
+Lil_Pudgys_334_dup_noi_380.png,Lil_Pudgys_334.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,3,1,0,1,1.0,23,0,1,4
+Bored_Ape_Yacht_Club_196_dup_col_302.png,Bored_Ape_Yacht_Club_196.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,train,4,0,1,0,1,9.4,3,0,1,4
+Bored_Ape_Yacht_Club_309_dup_con_266.png,Bored_Ape_Yacht_Club_309.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,6,1,4,1,1.5,9,0,1,4
+Azuki_327_dup_noi_0.png,Azuki_327.png,Azuki,noise & compression,blurring,train,1,0,1,0,1,1.0,14,3,1,4
+Azuki_287_dup_con_87.png,Azuki_287.png,Azuki,content modification,watermark_text,train,1,0,1,2,1,4.142857142857143,1,0,1,4
+Lil_Pudgys_514_dup_geo_374.png,Lil_Pudgys_514.png,Lil_Pudgys,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,1,0,1,4
+Azuki_100_dup_geo_38.png,Azuki_100.png,Azuki,geometric transformation,cropping,train,15,13,NOT_FOUND,,1,21.8,4,3,1,3
+Azuki_303_dup_col_5.png,Azuki_303.png,Azuki,color modification,brightness_contrast,train,1,3,1,0,1,2.0,1,1,1,4
+Azuki_383_dup_geo_71.png,Azuki_383.png,Azuki,geometric transformation,rotation,train,2,14,1,12,1,20.333333333333332,2,1,1,4
+Azuki_161_dup_geo_146.png,Azuki_161.png,Azuki,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,1,0,1,4
+Lil_Pudgys_86_dup_noi_494.png,Lil_Pudgys_86.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,0,1,0.0,3,0,1,4
+Azuki_150_dup_geo_166.png,Azuki_150.png,Azuki,geometric transformation,rotation,train,NOT_FOUND,,39,24,NOT_FOUND,,3,2,3,2
+Azuki_76_dup_noi_50.png,Azuki_76.png,Azuki,noise & compression,gaussian_noise,train,1,5,1,2,1,6.625,21,4,1,4
+Lil_Pudgys_175_dup_col_373.png,Lil_Pudgys_175.png,Lil_Pudgys,color modification,hue_saturation,train,1,0,1,0,1,3.3333333333333335,NOT_FOUND,,1,3
+Azuki_177_dup_geo_102.png,Azuki_177.png,Azuki,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,1,0,1,4
+Bored_Ape_Yacht_Club_292_dup_noi_275.png,Bored_Ape_Yacht_Club_292.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,train,2,0,1,0,1,0.25,46,1,1,4
+Lil_Pudgys_296_dup_con_476.png,Lil_Pudgys_296.png,Lil_Pudgys,content modification,background_tint,train,2,11,2,2,1,8.666666666666666,44,3,1,4
+Lil_Pudgys_62_dup_noi_461.png,Lil_Pudgys_62.png,Lil_Pudgys,noise & compression,blurring,train,1,0,1,0,1,0.0,1,0,1,4
+Azuki_263_dup_con_66.png,Azuki_263.png,Azuki,content modification,watermark_text,train,1,0,1,0,1,0.5,1,0,1,4
+Azuki_60_dup_con_136.png,Azuki_60.png,Azuki,content modification,border_frame,train,1,2,1,8,1,2.0,NOT_FOUND,,1,3
+Azuki_173_dup_con_83.png,Azuki_173.png,Azuki,content modification,background_tint,train,1,2,1,4,1,2.75,8,1,1,4
+Bored_Ape_Yacht_Club_127_dup_col_297.png,Bored_Ape_Yacht_Club_127.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,6,1,4,1,7.0,29,1,1,4
+Bored_Ape_Yacht_Club_437_dup_col_191.png,Bored_Ape_Yacht_Club_437.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_386_dup_noi_227.png,Bored_Ape_Yacht_Club_386.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,train,1,0,1,0,1,0.75,1,0,1,4
+Bored_Ape_Yacht_Club_344_dup_con_204.png,Bored_Ape_Yacht_Club_344.png,Bored_Ape_Yacht_Club,content modification,border_frame,train,1,7,3,8,1,1.6666666666666667,16,1,1,4
+Azuki_266_dup_geo_89.png,Azuki_266.png,Azuki,geometric transformation,rotation,train,1,19,1,16,1,17.333333333333332,2,2,1,4
+Bored_Ape_Yacht_Club_171_dup_col_331.png,Bored_Ape_Yacht_Club_171.png,Bored_Ape_Yacht_Club,color modification,color_tint,train,2,0,1,2,1,1.6666666666666667,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_47_dup_geo_283.png,Bored_Ape_Yacht_Club_47.png,Bored_Ape_Yacht_Club,geometric transformation,flipping,train,9,12,NOT_FOUND,,18,24.0,1,0,1,3
+Lil_Pudgys_51_dup_geo_413.png,Lil_Pudgys_51.png,Lil_Pudgys,geometric transformation,rotation,train,4,18,13,12,3,21.5,2,1,2,4
+Azuki_181_dup_col_43.png,Azuki_181.png,Azuki,color modification,color_tint,train,1,1,1,0,1,0.3333333333333333,NOT_FOUND,,1,3
+Lil_Pudgys_287_dup_col_482.png,Lil_Pudgys_287.png,Lil_Pudgys,color modification,color_tint,train,1,1,1,2,1,14.0,4,0,1,4
+Lil_Pudgys_454_dup_con_479.png,Lil_Pudgys_454.png,Lil_Pudgys,content modification,border_frame,train,1,5,1,2,1,6.0,31,3,1,4
+Bored_Ape_Yacht_Club_485_dup_geo_266.png,Bored_Ape_Yacht_Club_485.png,Bored_Ape_Yacht_Club,geometric transformation,flipping,train,2,6,NOT_FOUND,,NOT_FOUND,,9,0,2,2
+Azuki_485_dup_geo_153.png,Azuki_485.png,Azuki,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,1,0,1,4
+Bored_Ape_Yacht_Club_185_dup_noi_301.png,Bored_Ape_Yacht_Club_185.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,train,1,0,1,2,1,3.0,4,0,1,4
+Azuki_368_dup_noi_105.png,Azuki_368.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,0.6666666666666666,6,1,1,4
+Bored_Ape_Yacht_Club_442_dup_geo_295.png,Bored_Ape_Yacht_Club_442.png,Bored_Ape_Yacht_Club,geometric transformation,rotation,train,29,25,43,24,4,19.25,9,1,4,4
+Lil_Pudgys_227_dup_con_458.png,Lil_Pudgys_227.png,Lil_Pudgys,content modification,watermark_text,train,2,4,4,6,11,16.0,7,0,2,4
+Bored_Ape_Yacht_Club_158_dup_col_310.png,Bored_Ape_Yacht_Club_158.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,train,1,4,1,0,1,17.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_217_dup_noi_195.png,Bored_Ape_Yacht_Club_217.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,2,0,1,0,1,0.0,6,1,1,4
+Azuki_254_dup_noi_82.png,Azuki_254.png,Azuki,noise & compression,gaussian_noise,train,1,0,1,0,1,4.230769230769231,NOT_FOUND,,1,3
+Azuki_307_dup_noi_32.png,Azuki_307.png,Azuki,noise & compression,gaussian_noise,train,1,1,1,2,1,1.3333333333333333,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_294_dup_geo_268.png,Bored_Ape_Yacht_Club_294.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,7,0,1,4
+Bored_Ape_Yacht_Club_195_dup_noi_173.png,Bored_Ape_Yacht_Club_195.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,2.6666666666666665,4,0,1,4
+Azuki_415_dup_geo_111.png,Azuki_415.png,Azuki,geometric transformation,cropping,train,7,19,4,22,1,22.333333333333332,34,4,1,4
+Lil_Pudgys_376_dup_con_454.png,Lil_Pudgys_376.png,Lil_Pudgys,content modification,border_frame,train,NOT_FOUND,,6,8,1,9.666666666666666,5,2,1,3
+Lil_Pudgys_379_dup_noi_476.png,Lil_Pudgys_379.png,Lil_Pudgys,noise & compression,blurring,train,2,0,1,0,1,0.5,1,0,1,4
+Bored_Ape_Yacht_Club_484_dup_col_305.png,Bored_Ape_Yacht_Club_484.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,2,1,0,2,15.25,13,4,1,4
+Lil_Pudgys_367_dup_con_343.png,Lil_Pudgys_367.png,Lil_Pudgys,content modification,watermark_text,train,1,0,1,2,1,2.3333333333333335,8,0,1,4
+Bored_Ape_Yacht_Club_37_dup_col_214.png,Bored_Ape_Yacht_Club_37.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,3,0,1,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_170_dup_geo_239.png,Bored_Ape_Yacht_Club_170.png,Bored_Ape_Yacht_Club,geometric transformation,rotation,train,1,3,1,10,1,9.333333333333334,23,3,1,4
+Lil_Pudgys_258_dup_geo_361.png,Lil_Pudgys_258.png,Lil_Pudgys,geometric transformation,rotation,train,NOT_FOUND,,16,18,13,21.333333333333332,5,1,5,3
+Lil_Pudgys_168_dup_noi_417.png,Lil_Pudgys_168.png,Lil_Pudgys,noise & compression,gaussian_noise,train,1,0,1,0,1,0.6666666666666666,NOT_FOUND,,1,3
+Lil_Pudgys_293_dup_col_395.png,Lil_Pudgys_293.png,Lil_Pudgys,color modification,grayscale,train,8,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_367_dup_col_0.png,Azuki_367.png,Azuki,color modification,hue_saturation,train,1,1,1,0,1,2.0,4,2,1,4
+Azuki_496_dup_geo_134.png,Azuki_496.png,Azuki,geometric transformation,cropping,train,14,24,42,26,1,19.333333333333332,5,3,1,4
+Azuki_191_dup_con_2.png,Azuki_191.png,Azuki,content modification,border_frame,train,1,4,1,8,1,12.0,1,3,1,4
+Bored_Ape_Yacht_Club_143_dup_noi_289.png,Bored_Ape_Yacht_Club_143.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,0.5,5,0,1,4
+Bored_Ape_Yacht_Club_467_dup_con_278.png,Bored_Ape_Yacht_Club_467.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,0,1,2,1,1.0,10,0,1,4
+Azuki_147_dup_noi_60.png,Azuki_147.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,0.0,1,0,1,4
+Bored_Ape_Yacht_Club_466_dup_con_304.png,Bored_Ape_Yacht_Club_466.png,Bored_Ape_Yacht_Club,content modification,background_tint,train,1,8,1,4,1,8.166666666666666,5,1,1,4
+Azuki_186_dup_con_140.png,Azuki_186.png,Azuki,content modification,background_tint,train,1,0,1,4,1,4.0,NOT_FOUND,,1,3
+Azuki_17_dup_col_88.png,Azuki_17.png,Azuki,color modification,hue_saturation,train,1,0,1,0,1,6.8,1,0,1,4
+Lil_Pudgys_92_dup_geo_342.png,Lil_Pudgys_92.png,Lil_Pudgys,geometric transformation,flipping,train,1,2,NOT_FOUND,,3,23.0,24,0,1,3
+Azuki_165_dup_con_15.png,Azuki_165.png,Azuki,content modification,background_tint,train,1,1,1,2,1,16.2,43,3,1,4
+Bored_Ape_Yacht_Club_40_dup_noi_311.png,Bored_Ape_Yacht_Club_40.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,train,1,0,1,0,1,2.0,9,0,1,4
+Lil_Pudgys_210_dup_geo_453.png,Lil_Pudgys_210.png,Lil_Pudgys,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,22,0,22,1
+Lil_Pudgys_438_dup_noi_432.png,Lil_Pudgys_438.png,Lil_Pudgys,noise & compression,jpeg_artifacts,train,1,0,1,0,1,0.5,16,0,1,4
+Azuki_394_dup_con_122.png,Azuki_394.png,Azuki,content modification,watermark_text,train,1,0,1,0,1,0.4,1,0,1,4
+Lil_Pudgys_144_dup_geo_364.png,Lil_Pudgys_144.png,Lil_Pudgys,geometric transformation,aspectratio,train,4,0,1,0,1,0.6666666666666666,6,0,1,4
+Lil_Pudgys_246_dup_noi_405.png,Lil_Pudgys_246.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,0,1,1.25,1,0,1,4
+Lil_Pudgys_394_dup_noi_375.png,Lil_Pudgys_394.png,Lil_Pudgys,noise & compression,jpeg_artifacts,train,2,0,1,0,1,1.5,2,0,1,4
+Azuki_469_dup_geo_101.png,Azuki_469.png,Azuki,geometric transformation,aspectratio,train,1,0,1,0,1,0.2,1,0,1,4
+Azuki_407_dup_noi_23.png,Azuki_407.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,0.8,1,0,1,4
+Azuki_17_dup_geo_46.png,Azuki_17.png,Azuki,geometric transformation,rotation,train,15,24,1,20,1,21.5,1,1,1,4
+Lil_Pudgys_103_dup_noi_429.png,Lil_Pudgys_103.png,Lil_Pudgys,noise & compression,salt_and_pepper,train,1,0,1,0,1,1.5,1,0,1,4
+Bored_Ape_Yacht_Club_451_dup_col_168.png,Bored_Ape_Yacht_Club_451.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_458_dup_col_164.png,Azuki_458.png,Azuki,color modification,brightness_contrast,train,1,0,1,4,2,22.333333333333332,NOT_FOUND,,1,3
+Azuki_295_dup_con_107.png,Azuki_295.png,Azuki,content modification,watermark_text,train,1,0,1,2,1,14.0,1,1,1,4
+Azuki_305_dup_noi_92.png,Azuki_305.png,Azuki,noise & compression,jpeg_artifacts,train,1,0,1,0,1,1.2222222222222223,1,1,1,4
+Bored_Ape_Yacht_Club_445_dup_noi_261.png,Bored_Ape_Yacht_Club_445.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,train,1,0,1,0,1,1.6666666666666667,6,0,1,4
+Azuki_66_dup_geo_108.png,Azuki_66.png,Azuki,geometric transformation,cropping,train,12,12,NOT_FOUND,,NOT_FOUND,,47,5,12,2
+Azuki_0_dup_noi_10.png,Azuki_0.png,Azuki,noise & compression,salt_and_pepper,train,1,1,1,0,1,1.0,1,0,1,4
+Azuki_7_dup_geo_113.png,Azuki_7.png,Azuki,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,2,0,1,4
+Bored_Ape_Yacht_Club_89_dup_col_181.png,Bored_Ape_Yacht_Club_89.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,1,0,1,0,1,0.0,45,3,1,4
+Lil_Pudgys_252_dup_noi_451.png,Lil_Pudgys_252.png,Lil_Pudgys,noise & compression,blurring,train,1,0,1,0,1,0.0,12,0,1,4
+Lil_Pudgys_189_dup_noi_366.png,Lil_Pudgys_189.png,Lil_Pudgys,noise & compression,blurring,train,1,0,1,0,1,6.5,15,0,1,4
+Azuki_7_dup_col_150.png,Azuki_7.png,Azuki,color modification,hue_saturation,train,1,1,1,2,1,0.2,3,1,1,4
+Azuki_468_dup_noi_95.png,Azuki_468.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,1.2,1,0,1,4
+Azuki_447_dup_con_96.png,Azuki_447.png,Azuki,content modification,border_frame,train,NOT_FOUND,,1,10,1,13.25,1,2,1,3
+Azuki_478_dup_col_108.png,Azuki_478.png,Azuki,color modification,hue_saturation,train,1,0,1,2,1,3.0,40,3,1,4
+Bored_Ape_Yacht_Club_43_dup_con_238.png,Bored_Ape_Yacht_Club_43.png,Bored_Ape_Yacht_Club,content modification,border_frame,train,8,2,4,8,1,4.25,11,0,1,4
+Azuki_256_dup_noi_128.png,Azuki_256.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,1.0,1,1,1,4
+Bored_Ape_Yacht_Club_96_dup_con_322.png,Bored_Ape_Yacht_Club_96.png,Bored_Ape_Yacht_Club,content modification,watermark_text,train,1,0,1,0,1,0.0,2,0,1,4
+Lil_Pudgys_27_dup_col_414.png,Lil_Pudgys_27.png,Lil_Pudgys,color modification,brightness_contrast,train,1,0,1,0,2,12.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_58_dup_noi_251.png,Bored_Ape_Yacht_Club_58.png,Bored_Ape_Yacht_Club,noise & compression,gaussian_noise,train,1,0,1,0,1,1.75,4,2,1,4
+Azuki_224_dup_noi_126.png,Azuki_224.png,Azuki,noise & compression,gaussian_noise,train,1,0,1,2,1,1.5,12,4,1,4
+Azuki_261_dup_geo_92.png,Azuki_261.png,Azuki,geometric transformation,rotation,train,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,0,1,1
+Lil_Pudgys_185_dup_geo_414.png,Lil_Pudgys_185.png,Lil_Pudgys,geometric transformation,cropping,train,28,16,1,8,16,21.5,3,0,1,4
+Bored_Ape_Yacht_Club_164_dup_noi_221.png,Bored_Ape_Yacht_Club_164.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,1.75,16,3,1,4
+Lil_Pudgys_390_dup_geo_345.png,Lil_Pudgys_390.png,Lil_Pudgys,geometric transformation,aspectratio,train,1,0,1,0,1,0.0,3,2,1,4
+Bored_Ape_Yacht_Club_358_dup_geo_203.png,Bored_Ape_Yacht_Club_358.png,Bored_Ape_Yacht_Club,geometric transformation,cropping,train,5,13,NOT_FOUND,,NOT_FOUND,,22,1,5,2
+Lil_Pudgys_16_dup_con_363.png,Lil_Pudgys_16.png,Lil_Pudgys,content modification,border_frame,train,NOT_FOUND,,1,8,1,7.333333333333333,2,2,1,3
+Azuki_180_dup_col_65.png,Azuki_180.png,Azuki,color modification,color_tint,train,1,0,1,0,1,8.8,NOT_FOUND,,1,3
+Azuki_353_dup_geo_164.png,Azuki_353.png,Azuki,geometric transformation,rotation,train,NOT_FOUND,,1,14,1,14.777777777777779,5,3,1,3
+Lil_Pudgys_356_dup_con_398.png,Lil_Pudgys_356.png,Lil_Pudgys,content modification,background_tint,train,1,1,1,0,1,6.333333333333333,4,2,1,4
+Lil_Pudgys_365_dup_geo_365.png,Lil_Pudgys_365.png,Lil_Pudgys,geometric transformation,aspectratio,train,2,0,1,0,1,0.0,1,0,1,4
+Lil_Pudgys_197_dup_con_425.png,Lil_Pudgys_197.png,Lil_Pudgys,content modification,border_frame,train,NOT_FOUND,,1,8,1,4.666666666666667,12,0,1,3
+Azuki_370_dup_geo_15.png,Azuki_370.png,Azuki,geometric transformation,flipping,train,NOT_FOUND,,NOT_FOUND,,23,25.166666666666668,1,0,1,2
+Bored_Ape_Yacht_Club_326_dup_col_169.png,Bored_Ape_Yacht_Club_326.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,train,1,0,1,0,1,3.25,NOT_FOUND,,1,3
+Lil_Pudgys_387_dup_geo_373.png,Lil_Pudgys_387.png,Lil_Pudgys,geometric transformation,rotation,train,NOT_FOUND,,4,16,23,24.333333333333332,1,2,1,3
+Lil_Pudgys_330_dup_col_381.png,Lil_Pudgys_330.png,Lil_Pudgys,color modification,grayscale,train,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_225_dup_col_89.png,Azuki_225.png,Azuki,color modification,color_tint,train,1,0,1,2,1,0.0,NOT_FOUND,,1,3
+Azuki_84_dup_noi_156.png,Azuki_84.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,0.6,1,1,1,4
+Azuki_487_dup_con_103.png,Azuki_487.png,Azuki,content modification,background_tint,train,1,5,1,2,1,3.2,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_191_dup_col_327.png,Bored_Ape_Yacht_Club_191.png,Bored_Ape_Yacht_Club,color modification,grayscale,train,2,0,1,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_43_dup_col_185.png,Bored_Ape_Yacht_Club_43.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,1,0,1,0,1,0.25,45,3,1,4
+Lil_Pudgys_334_dup_con_335.png,Lil_Pudgys_334.png,Lil_Pudgys,content modification,watermark_text,train,1,2,1,0,1,0.0,23,0,1,4
+Lil_Pudgys_322_dup_con_341.png,Lil_Pudgys_322.png,Lil_Pudgys,content modification,border_frame,train,NOT_FOUND,,1,6,1,13.0,NOT_FOUND,,1,2
+Bored_Ape_Yacht_Club_97_dup_col_303.png,Bored_Ape_Yacht_Club_97.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,train,4,0,1,2,1,6.6,NOT_FOUND,,1,3
+Lil_Pudgys_34_dup_con_428.png,Lil_Pudgys_34.png,Lil_Pudgys,content modification,background_tint,train,1,0,1,0,1,0.5,1,0,1,4
+Azuki_236_dup_noi_137.png,Azuki_236.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,0.3333333333333333,1,0,1,4
+Azuki_408_dup_noi_88.png,Azuki_408.png,Azuki,noise & compression,salt_and_pepper,train,1,0,1,0,1,12.333333333333334,1,0,1,4
+Lil_Pudgys_185_dup_con_484.png,Lil_Pudgys_185.png,Lil_Pudgys,content modification,watermark_text,train,1,13,1,2,1,2.5,3,0,1,4
+Azuki_6_dup_geo_12.png,Azuki_6.png,Azuki,geometric transformation,rotation,train,NOT_FOUND,,11,20,NOT_FOUND,,1,1,1,2
+Lil_Pudgys_120_dup_con_445.png,Lil_Pudgys_120.png,Lil_Pudgys,content modification,background_tint,train,1,4,1,2,1,6.0,4,2,1,4
+Azuki_373_dup_con_61.png,Azuki_373.png,Azuki,content modification,border_frame,train,1,0,3,14,1,10.857142857142858,NOT_FOUND,,1,3
+Azuki_112_dup_col_40.png,Azuki_112.png,Azuki,color modification,brightness_contrast,train,1,2,1,0,1,7.5,NOT_FOUND,,1,3
+Lil_Pudgys_227_dup_geo_490.png,Lil_Pudgys_227.png,Lil_Pudgys,geometric transformation,flipping,train,1,0,NOT_FOUND,,NOT_FOUND,,7,0,1,2
+Lil_Pudgys_92_dup_con_410.png,Lil_Pudgys_92.png,Lil_Pudgys,content modification,watermark_text,train,1,0,1,2,1,0.5,24,0,1,4
+Lil_Pudgys_141_dup_noi_487.png,Lil_Pudgys_141.png,Lil_Pudgys,noise & compression,jpeg_artifacts,train,1,0,1,0,1,7.666666666666667,1,0,1,4
+Azuki_426_dup_con_75.png,Azuki_426.png,Azuki,content modification,border_frame,train,1,1,1,6,1,4.666666666666667,NOT_FOUND,,1,3
+Azuki_259_dup_col_63.png,Azuki_259.png,Azuki,color modification,hue_saturation,train,1,0,1,0,1,1.1428571428571428,1,0,1,4
+Lil_Pudgys_223_dup_con_444.png,Lil_Pudgys_223.png,Lil_Pudgys,content modification,border_frame,train,1,0,1,2,1,6.0,2,0,1,4
+Azuki_275_dup_noi_121.png,Azuki_275.png,Azuki,noise & compression,gaussian_noise,train,1,8,1,0,1,2.0,34,6,1,4
+Bored_Ape_Yacht_Club_122_dup_geo_199.png,Bored_Ape_Yacht_Club_122.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,train,1,0,1,0,1,0.25,1,0,1,4
+Azuki_129_dup_con_22.png,Azuki_129.png,Azuki,content modification,watermark_text,train,1,0,1,0,1,0.16666666666666666,5,2,1,4
+Bored_Ape_Yacht_Club_97_dup_noi_215.png,Bored_Ape_Yacht_Club_97.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,train,4,0,1,0,1,2.5,2,0,1,4
+Bored_Ape_Yacht_Club_412_dup_con_196.png,Bored_Ape_Yacht_Club_412.png,Bored_Ape_Yacht_Club,content modification,border_frame,train,NOT_FOUND,,2,8,1,7.5,18,2,1,3
+Azuki_55_dup_col_155.png,Azuki_55.png,Azuki,color modification,color_tint,train,1,7,1,4,1,16.5,NOT_FOUND,,1,3
+Azuki_378_dup_con_57.png,Azuki_378.png,Azuki,content modification,border_frame,train,2,8,1,10,1,3.8,1,0,1,4
+Bored_Ape_Yacht_Club_425_dup_noi_303.png,Bored_Ape_Yacht_Club_425.png,Bored_Ape_Yacht_Club,noise & compression,blurring,train,1,0,1,0,1,2.0,1,0,1,4
+Lil_Pudgys_124_dup_noi_418.png,Lil_Pudgys_124.png,Lil_Pudgys,noise & compression,jpeg_artifacts,test,1,0,1,0,1,0.0,1,2,1,4
+Bored_Ape_Yacht_Club_424_dup_con_170.png,Bored_Ape_Yacht_Club_424.png,Bored_Ape_Yacht_Club,content modification,watermark_text,test,1,0,1,2,1,5.666666666666667,1,0,1,4
+Lil_Pudgys_411_dup_geo_372.png,Lil_Pudgys_411.png,Lil_Pudgys,geometric transformation,cropping,test,21,11,1,18,16,24.5,3,1,1,4
+Azuki_310_dup_geo_107.png,Azuki_310.png,Azuki,geometric transformation,cropping,test,6,20,4,20,1,22.166666666666668,2,1,1,4
+Lil_Pudgys_232_dup_con_357.png,Lil_Pudgys_232.png,Lil_Pudgys,content modification,watermark_text,test,1,8,1,6,1,2.5,1,0,1,4
+Azuki_313_dup_geo_161.png,Azuki_313.png,Azuki,geometric transformation,rotation,test,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,1,0,1,1
+Lil_Pudgys_166_dup_geo_380.png,Lil_Pudgys_166.png,Lil_Pudgys,geometric transformation,cropping,test,NOT_FOUND,,NOT_FOUND,,NOT_FOUND,,5,0,5,1
+Azuki_193_dup_col_101.png,Azuki_193.png,Azuki,color modification,hue_saturation,test,1,2,1,0,1,13.416666666666666,1,3,1,4
+Bored_Ape_Yacht_Club_359_dup_noi_326.png,Bored_Ape_Yacht_Club_359.png,Bored_Ape_Yacht_Club,noise & compression,salt_and_pepper,test,1,0,1,0,1,0.6666666666666666,2,0,1,4
+Lil_Pudgys_417_dup_geo_497.png,Lil_Pudgys_417.png,Lil_Pudgys,geometric transformation,cropping,test,14,8,31,26,1,18.333333333333332,9,4,1,4
+Azuki_148_dup_noi_83.png,Azuki_148.png,Azuki,noise & compression,salt_and_pepper,test,1,0,1,0,1,0.8333333333333334,1,0,1,4
+Lil_Pudgys_413_dup_col_402.png,Lil_Pudgys_413.png,Lil_Pudgys,color modification,hue_saturation,test,1,0,1,0,1,7.75,1,0,1,4
+Lil_Pudgys_54_dup_col_339.png,Lil_Pudgys_54.png,Lil_Pudgys,color modification,color_tint,test,1,1,1,4,1,2.5,1,0,1,4
+Bored_Ape_Yacht_Club_339_dup_con_265.png,Bored_Ape_Yacht_Club_339.png,Bored_Ape_Yacht_Club,content modification,border_frame,test,1,6,1,6,1,8.0,4,2,1,4
+Azuki_440_dup_con_93.png,Azuki_440.png,Azuki,content modification,background_tint,test,1,3,1,4,1,12.0,2,1,1,4
+Azuki_443_dup_con_150.png,Azuki_443.png,Azuki,content modification,background_tint,test,1,0,1,4,1,2.25,8,3,1,4
+Azuki_310_dup_col_16.png,Azuki_310.png,Azuki,color modification,grayscale,test,1,0,1,0,1,0.0,24,4,1,4
+Lil_Pudgys_14_dup_col_462.png,Lil_Pudgys_14.png,Lil_Pudgys,color modification,grayscale,test,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Lil_Pudgys_302_dup_col_384.png,Lil_Pudgys_302.png,Lil_Pudgys,color modification,color_tint,test,1,0,1,0,1,0.5,32,6,1,4
+Bored_Ape_Yacht_Club_455_dup_noi_270.png,Bored_Ape_Yacht_Club_455.png,Bored_Ape_Yacht_Club,noise & compression,gaussian_noise,test,1,0,1,0,1,5.333333333333333,39,6,1,4
+Azuki_424_dup_con_152.png,Azuki_424.png,Azuki,content modification,background_tint,test,1,0,1,4,1,8.333333333333334,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_460_dup_con_181.png,Bored_Ape_Yacht_Club_460.png,Bored_Ape_Yacht_Club,content modification,watermark_text,test,1,3,1,4,1,0.6666666666666666,2,0,1,4
+Azuki_56_dup_noi_94.png,Azuki_56.png,Azuki,noise & compression,salt_and_pepper,test,1,0,1,0,1,2.0,1,0,1,4
+Lil_Pudgys_119_dup_col_449.png,Lil_Pudgys_119.png,Lil_Pudgys,color modification,color_tint,test,12,3,1,8,1,4.0,17,3,1,4
+Azuki_51_dup_con_65.png,Azuki_51.png,Azuki,content modification,background_tint,test,1,2,1,2,1,5.666666666666667,NOT_FOUND,,1,3
+Lil_Pudgys_315_dup_con_481.png,Lil_Pudgys_315.png,Lil_Pudgys,content modification,watermark_text,test,7,5,1,0,1,5.666666666666667,2,2,1,4
+Lil_Pudgys_160_dup_geo_387.png,Lil_Pudgys_160.png,Lil_Pudgys,geometric transformation,cropping,test,11,13,NOT_FOUND,,47,25.75,8,2,8,3
+Lil_Pudgys_420_dup_con_354.png,Lil_Pudgys_420.png,Lil_Pudgys,content modification,border_frame,test,9,3,2,4,1,7.0,2,2,1,4
+Lil_Pudgys_67_dup_noi_353.png,Lil_Pudgys_67.png,Lil_Pudgys,noise & compression,jpeg_artifacts,test,1,0,1,0,1,1.0,2,0,1,4
+Bored_Ape_Yacht_Club_150_dup_noi_168.png,Bored_Ape_Yacht_Club_150.png,Bored_Ape_Yacht_Club,noise & compression,blurring,test,1,0,1,0,1,1.0,8,2,1,4
+Lil_Pudgys_247_dup_con_474.png,Lil_Pudgys_247.png,Lil_Pudgys,content modification,background_tint,test,4,8,1,2,1,21.0,1,1,1,4
+Lil_Pudgys_56_dup_col_371.png,Lil_Pudgys_56.png,Lil_Pudgys,color modification,color_tint,test,14,4,1,12,1,11.666666666666666,23,3,1,4
+Bored_Ape_Yacht_Club_424_dup_geo_325.png,Bored_Ape_Yacht_Club_424.png,Bored_Ape_Yacht_Club,geometric transformation,cropping,test,37,17,NOT_FOUND,,4,21.142857142857142,6,3,4,3
+Bored_Ape_Yacht_Club_464_dup_noi_222.png,Bored_Ape_Yacht_Club_464.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,test,1,1,1,0,1,2.4,1,0,1,4
+Bored_Ape_Yacht_Club_447_dup_col_182.png,Bored_Ape_Yacht_Club_447.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,test,1,0,1,2,1,17.0,NOT_FOUND,,1,3
+Azuki_255_dup_geo_44.png,Azuki_255.png,Azuki,geometric transformation,flipping,test,NOT_FOUND,,NOT_FOUND,,40,25.5,1,0,1,2
+Azuki_377_dup_con_73.png,Azuki_377.png,Azuki,content modification,background_tint,test,1,2,1,2,1,2.0,1,2,1,4
+Bored_Ape_Yacht_Club_246_dup_con_316.png,Bored_Ape_Yacht_Club_246.png,Bored_Ape_Yacht_Club,content modification,border_frame,test,1,0,1,6,1,4.666666666666667,NOT_FOUND,,1,3
+Lil_Pudgys_119_dup_geo_448.png,Lil_Pudgys_119.png,Lil_Pudgys,geometric transformation,rotation,test,12,27,1,10,1,22.5,1,1,1,4
+Lil_Pudgys_466_dup_geo_353.png,Lil_Pudgys_466.png,Lil_Pudgys,geometric transformation,cropping,test,2,17,35,30,1,16.333333333333332,2,1,1,4
+Bored_Ape_Yacht_Club_130_dup_con_273.png,Bored_Ape_Yacht_Club_130.png,Bored_Ape_Yacht_Club,content modification,background_tint,test,1,11,1,4,1,5.75,9,3,1,4
+Azuki_291_dup_col_96.png,Azuki_291.png,Azuki,color modification,hue_saturation,test,1,0,1,0,1,12.0,NOT_FOUND,,1,3
+Lil_Pudgys_456_dup_con_477.png,Lil_Pudgys_456.png,Lil_Pudgys,content modification,background_tint,test,1,2,1,2,1,13.333333333333334,3,0,1,4
+Lil_Pudgys_278_dup_geo_393.png,Lil_Pudgys_278.png,Lil_Pudgys,geometric transformation,cropping,test,6,3,NOT_FOUND,,17,18.5,8,4,6,3
+Lil_Pudgys_116_dup_con_400.png,Lil_Pudgys_116.png,Lil_Pudgys,content modification,watermark_text,test,1,0,1,2,1,0.3333333333333333,2,2,1,4
+Azuki_410_dup_col_145.png,Azuki_410.png,Azuki,color modification,hue_saturation,test,1,0,1,2,1,2.0,4,1,1,4
+Bored_Ape_Yacht_Club_285_dup_noi_198.png,Bored_Ape_Yacht_Club_285.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,test,1,0,1,0,1,0.25,7,2,1,4
+Azuki_51_dup_geo_85.png,Azuki_51.png,Azuki,geometric transformation,rotation,test,1,14,1,18,1,15.0,1,1,1,4
+Lil_Pudgys_232_dup_noi_359.png,Lil_Pudgys_232.png,Lil_Pudgys,noise & compression,jpeg_artifacts,test,1,1,1,0,1,0.5,1,0,1,4
+Lil_Pudgys_413_dup_noi_496.png,Lil_Pudgys_413.png,Lil_Pudgys,noise & compression,jpeg_artifacts,test,1,0,1,0,1,2.0,1,0,1,4
+Bored_Ape_Yacht_Club_420_dup_geo_289.png,Bored_Ape_Yacht_Club_420.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,test,1,0,1,2,1,0.75,1,1,1,4
+Bored_Ape_Yacht_Club_259_dup_col_201.png,Bored_Ape_Yacht_Club_259.png,Bored_Ape_Yacht_Club,color modification,hue_saturation,test,6,3,1,6,2,16.5,10,2,1,4
+Bored_Ape_Yacht_Club_418_dup_con_323.png,Bored_Ape_Yacht_Club_418.png,Bored_Ape_Yacht_Club,content modification,watermark_text,test,3,1,1,4,1,1.3333333333333333,2,1,1,4
+Bored_Ape_Yacht_Club_161_dup_con_315.png,Bored_Ape_Yacht_Club_161.png,Bored_Ape_Yacht_Club,content modification,watermark_text,test,1,0,1,2,1,0.5,10,3,1,4
+Lil_Pudgys_205_dup_col_356.png,Lil_Pudgys_205.png,Lil_Pudgys,color modification,hue_saturation,test,1,0,1,0,1,6.0,10,0,1,4
+Bored_Ape_Yacht_Club_278_dup_con_223.png,Bored_Ape_Yacht_Club_278.png,Bored_Ape_Yacht_Club,content modification,border_frame,test,1,6,1,4,1,15.2,1,1,1,4
+Lil_Pudgys_123_dup_col_390.png,Lil_Pudgys_123.png,Lil_Pudgys,color modification,brightness_contrast,test,1,1,1,0,1,1.25,6,0,1,4
+Lil_Pudgys_163_dup_noi_370.png,Lil_Pudgys_163.png,Lil_Pudgys,noise & compression,salt_and_pepper,test,1,0,1,0,1,3.5,10,0,1,4
+Bored_Ape_Yacht_Club_199_dup_col_188.png,Bored_Ape_Yacht_Club_199.png,Bored_Ape_Yacht_Club,color modification,color_tint,test,1,0,1,2,1,5.0,6,1,1,4
+Lil_Pudgys_84_dup_geo_469.png,Lil_Pudgys_84.png,Lil_Pudgys,geometric transformation,flipping,test,1,2,NOT_FOUND,,17,23.666666666666668,1,0,1,3
+Lil_Pudgys_284_dup_noi_341.png,Lil_Pudgys_284.png,Lil_Pudgys,noise & compression,blurring,test,1,0,1,0,1,0.0,9,0,1,4
+Bored_Ape_Yacht_Club_421_dup_col_256.png,Bored_Ape_Yacht_Club_421.png,Bored_Ape_Yacht_Club,color modification,grayscale,test,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Azuki_281_dup_noi_127.png,Azuki_281.png,Azuki,noise & compression,blurring,test,1,0,1,0,1,1.3333333333333333,1,0,1,4
+Azuki_494_dup_col_117.png,Azuki_494.png,Azuki,color modification,color_tint,test,1,1,1,4,1,6.8,49,5,1,4
+Bored_Ape_Yacht_Club_307_dup_geo_258.png,Bored_Ape_Yacht_Club_307.png,Bored_Ape_Yacht_Club,geometric transformation,cropping,test,8,17,13,26,1,13.333333333333334,50,6,1,4
+Azuki_281_dup_con_143.png,Azuki_281.png,Azuki,content modification,background_tint,test,1,1,1,2,1,2.6666666666666665,2,2,1,4
+Bored_Ape_Yacht_Club_256_dup_col_313.png,Bored_Ape_Yacht_Club_256.png,Bored_Ape_Yacht_Club,color modification,color_tint,test,1,1,1,2,1,3.6666666666666665,NOT_FOUND,,1,3
+Lil_Pudgys_217_dup_noi_427.png,Lil_Pudgys_217.png,Lil_Pudgys,noise & compression,gaussian_noise,test,1,0,1,0,1,2.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_150_dup_con_299.png,Bored_Ape_Yacht_Club_150.png,Bored_Ape_Yacht_Club,content modification,background_tint,test,1,0,1,4,1,4.0,24,3,1,4
+Azuki_462_dup_col_134.png,Azuki_462.png,Azuki,color modification,brightness_contrast,test,1,2,1,2,1,11.8,8,2,1,4
+Azuki_494_dup_noi_70.png,Azuki_494.png,Azuki,noise & compression,salt_and_pepper,test,1,0,1,0,1,1.25,1,0,1,4
+Lil_Pudgys_355_dup_con_441.png,Lil_Pudgys_355.png,Lil_Pudgys,content modification,border_frame,test,7,17,1,4,1,8.0,1,0,1,4
+Lil_Pudgys_357_dup_geo_429.png,Lil_Pudgys_357.png,Lil_Pudgys,geometric transformation,flipping,test,7,4,NOT_FOUND,,3,20.666666666666668,1,0,1,3
+Azuki_59_dup_noi_18.png,Azuki_59.png,Azuki,noise & compression,jpeg_artifacts,test,1,0,1,0,1,0.0,2,1,1,4
+Lil_Pudgys_93_dup_geo_389.png,Lil_Pudgys_93.png,Lil_Pudgys,geometric transformation,flipping,test,1,2,NOT_FOUND,,1,21.0,2,0,1,3
+Azuki_475_dup_col_24.png,Azuki_475.png,Azuki,color modification,grayscale,test,1,0,1,0,1,0.0,16,4,1,4
+Bored_Ape_Yacht_Club_49_dup_con_275.png,Bored_Ape_Yacht_Club_49.png,Bored_Ape_Yacht_Club,content modification,watermark_text,test,1,0,1,2,1,0.5,1,0,1,4
+Lil_Pudgys_14_dup_con_390.png,Lil_Pudgys_14.png,Lil_Pudgys,content modification,watermark_text,test,1,1,1,2,1,13.0,4,0,1,4
+Lil_Pudgys_375_dup_col_352.png,Lil_Pudgys_375.png,Lil_Pudgys,color modification,brightness_contrast,test,1,1,1,4,1,2.5,35,6,1,4
+Bored_Ape_Yacht_Club_243_dup_noi_314.png,Bored_Ape_Yacht_Club_243.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,test,1,0,1,0,1,0.0,4,0,1,4
+Azuki_159_dup_noi_151.png,Azuki_159.png,Azuki,noise & compression,jpeg_artifacts,test,1,0,1,0,1,0.4,3,3,1,4
+Azuki_310_dup_con_146.png,Azuki_310.png,Azuki,content modification,background_tint,test,1,1,1,2,1,8.4,31,5,1,4
+Lil_Pudgys_116_dup_geo_432.png,Lil_Pudgys_116.png,Lil_Pudgys,geometric transformation,aspectratio,test,1,0,1,0,1,0.0,1,0,1,4
+Bored_Ape_Yacht_Club_414_dup_geo_198.png,Bored_Ape_Yacht_Club_414.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,test,1,0,1,0,1,0.2,1,0,1,4
+Azuki_440_dup_noi_67.png,Azuki_440.png,Azuki,noise & compression,gaussian_noise,test,1,0,1,0,1,3.0,2,0,1,4
+Lil_Pudgys_91_dup_noi_486.png,Lil_Pudgys_91.png,Lil_Pudgys,noise & compression,jpeg_artifacts,test,1,0,1,0,1,1.0,6,0,1,4
+Azuki_324_dup_con_80.png,Azuki_324.png,Azuki,content modification,background_tint,test,1,0,1,2,1,0.6666666666666666,1,0,1,4
+Bored_Ape_Yacht_Club_438_dup_col_213.png,Bored_Ape_Yacht_Club_438.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,test,1,2,1,0,1,2.0,23,5,1,4
+Lil_Pudgys_217_dup_geo_478.png,Lil_Pudgys_217.png,Lil_Pudgys,geometric transformation,flipping,test,4,2,26,30,1,13.0,1,0,1,4
+Azuki_479_dup_noi_11.png,Azuki_479.png,Azuki,noise & compression,blurring,test,1,0,1,0,1,0.0,6,0,1,4
+Azuki_475_dup_noi_29.png,Azuki_475.png,Azuki,noise & compression,jpeg_artifacts,test,1,0,1,0,1,0.0,1,0,1,4
+Bored_Ape_Yacht_Club_150_dup_geo_190.png,Bored_Ape_Yacht_Club_150.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,test,1,0,1,0,1,0.0,2,0,1,4
+Lil_Pudgys_323_dup_col_435.png,Lil_Pudgys_323.png,Lil_Pudgys,color modification,color_tint,test,1,3,1,6,2,12.0,42,4,1,4
+Lil_Pudgys_217_dup_con_478.png,Lil_Pudgys_217.png,Lil_Pudgys,content modification,watermark_text,test,4,1,2,4,1,0.5,2,2,1,4
+Bored_Ape_Yacht_Club_150_dup_col_174.png,Bored_Ape_Yacht_Club_150.png,Bored_Ape_Yacht_Club,color modification,color_tint,test,1,0,1,0,1,1.3333333333333333,37,5,1,4
+Azuki_51_dup_col_153.png,Azuki_51.png,Azuki,color modification,hue_saturation,test,1,0,1,0,1,0.3333333333333333,1,0,1,4
+Azuki_423_dup_col_159.png,Azuki_423.png,Azuki,color modification,color_tint,test,1,0,1,0,1,1.0,39,4,1,4
+Bored_Ape_Yacht_Club_61_dup_noi_296.png,Bored_Ape_Yacht_Club_61.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,test,1,1,1,0,1,1.0,2,0,1,4
+Bored_Ape_Yacht_Club_477_dup_noi_207.png,Bored_Ape_Yacht_Club_477.png,Bored_Ape_Yacht_Club,noise & compression,jpeg_artifacts,test,1,0,1,0,1,1.2,2,0,1,4
+Bored_Ape_Yacht_Club_119_dup_con_282.png,Bored_Ape_Yacht_Club_119.png,Bored_Ape_Yacht_Club,content modification,background_tint,test,1,4,1,6,1,9.8,NOT_FOUND,,1,3
+Lil_Pudgys_516_dup_noi_399.png,Lil_Pudgys_516.png,Lil_Pudgys,noise & compression,blurring,test,1,0,1,0,1,0.6666666666666666,8,0,1,4
+Bored_Ape_Yacht_Club_256_dup_noi_234.png,Bored_Ape_Yacht_Club_256.png,Bored_Ape_Yacht_Club,noise & compression,blurring,test,1,0,1,0,1,2.6666666666666665,2,0,1,4
+Azuki_439_dup_con_44.png,Azuki_439.png,Azuki,content modification,background_tint,test,1,0,1,4,1,6.833333333333333,16,4,1,4
+Azuki_344_dup_noi_165.png,Azuki_344.png,Azuki,noise & compression,gaussian_noise,test,1,1,1,0,1,0.75,39,5,1,4
+Bored_Ape_Yacht_Club_337_dup_geo_316.png,Bored_Ape_Yacht_Club_337.png,Bored_Ape_Yacht_Club,geometric transformation,cropping,test,3,15,1,18,7,19.8,5,2,1,4
+Azuki_47_dup_geo_40.png,Azuki_47.png,Azuki,geometric transformation,rotation,test,NOT_FOUND,,27,24,1,22.0,1,2,1,3
+Bored_Ape_Yacht_Club_399_dup_noi_320.png,Bored_Ape_Yacht_Club_399.png,Bored_Ape_Yacht_Club,noise & compression,blurring,test,1,0,1,0,1,2.5,3,0,1,4
+Azuki_144_dup_geo_84.png,Azuki_144.png,Azuki,geometric transformation,rotation,test,15,23,7,22,9,23.75,1,2,1,4
+Lil_Pudgys_475_dup_con_438.png,Lil_Pudgys_475.png,Lil_Pudgys,content modification,border_frame,test,1,16,1,6,1,9.5,2,0,1,4
+Bored_Ape_Yacht_Club_179_dup_geo_314.png,Bored_Ape_Yacht_Club_179.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,test,1,0,1,0,1,0.0,2,0,1,4
+Azuki_352_dup_geo_67.png,Azuki_352.png,Azuki,geometric transformation,aspectratio,test,1,0,1,0,1,0.0,3,0,1,4
+Bored_Ape_Yacht_Club_418_dup_col_282.png,Bored_Ape_Yacht_Club_418.png,Bored_Ape_Yacht_Club,color modification,color_tint,test,1,0,1,0,1,6.333333333333333,NOT_FOUND,,1,3
+Lil_Pudgys_500_dup_col_438.png,Lil_Pudgys_500.png,Lil_Pudgys,color modification,grayscale,test,1,0,1,0,1,0.0,23,3,1,4
+Azuki_437_dup_geo_127.png,Azuki_437.png,Azuki,geometric transformation,rotation,test,1,13,1,10,1,12.5,1,1,1,4
+Bored_Ape_Yacht_Club_390_dup_col_276.png,Bored_Ape_Yacht_Club_390.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,test,1,1,1,2,1,3.0,NOT_FOUND,,1,3
+Azuki_423_dup_con_7.png,Azuki_423.png,Azuki,content modification,watermark_text,test,1,1,1,2,1,0.25,2,2,1,4
+Bored_Ape_Yacht_Club_44_dup_noi_286.png,Bored_Ape_Yacht_Club_44.png,Bored_Ape_Yacht_Club,noise & compression,blurring,test,1,0,1,0,1,7.6,2,0,1,4
+Bored_Ape_Yacht_Club_477_dup_geo_191.png,Bored_Ape_Yacht_Club_477.png,Bored_Ape_Yacht_Club,geometric transformation,rotation,test,15,27,1,12,1,19.0,2,1,1,4
+Lil_Pudgys_67_dup_geo_456.png,Lil_Pudgys_67.png,Lil_Pudgys,geometric transformation,flipping,test,4,2,NOT_FOUND,,12,20.5,2,0,2,3
+Bored_Ape_Yacht_Club_444_dup_con_318.png,Bored_Ape_Yacht_Club_444.png,Bored_Ape_Yacht_Club,content modification,border_frame,test,1,3,1,8,1,6.0,8,2,1,4
+Azuki_455_dup_noi_141.png,Azuki_455.png,Azuki,noise & compression,blurring,test,1,0,1,0,1,0.0,10,3,1,4
+Lil_Pudgys_201_dup_noi_402.png,Lil_Pudgys_201.png,Lil_Pudgys,noise & compression,gaussian_noise,test,1,0,1,2,1,8.0,1,3,1,4
+Lil_Pudgys_91_dup_geo_447.png,Lil_Pudgys_91.png,Lil_Pudgys,geometric transformation,aspectratio,test,1,0,1,0,1,0.0,6,0,1,4
+Azuki_328_dup_geo_129.png,Azuki_328.png,Azuki,geometric transformation,cropping,test,45,22,15,26,NOT_FOUND,,7,5,7,3
+Azuki_123_dup_geo_116.png,Azuki_123.png,Azuki,geometric transformation,aspectratio,test,1,0,1,0,1,0.0,2,0,1,4
+Azuki_296_dup_geo_141.png,Azuki_296.png,Azuki,geometric transformation,aspectratio,test,1,0,1,0,1,0.0,1,0,1,4
+Bored_Ape_Yacht_Club_259_dup_geo_327.png,Bored_Ape_Yacht_Club_259.png,Bored_Ape_Yacht_Club,geometric transformation,flipping,test,2,8,NOT_FOUND,,4,23.333333333333332,1,0,1,3
+Bored_Ape_Yacht_Club_167_dup_geo_201.png,Bored_Ape_Yacht_Club_167.png,Bored_Ape_Yacht_Club,geometric transformation,aspectratio,test,1,0,1,0,1,0.5,1,0,1,4
+Bored_Ape_Yacht_Club_460_dup_col_250.png,Bored_Ape_Yacht_Club_460.png,Bored_Ape_Yacht_Club,color modification,grayscale,test,1,0,1,0,1,0.0,NOT_FOUND,,1,3
+Bored_Ape_Yacht_Club_421_dup_geo_257.png,Bored_Ape_Yacht_Club_421.png,Bored_Ape_Yacht_Club,geometric transformation,rotation,test,5,24,9,20,1,14.666666666666666,1,1,1,4
+Lil_Pudgys_113_dup_noi_413.png,Lil_Pudgys_113.png,Lil_Pudgys,noise & compression,blurring,test,2,0,1,0,1,0.0,1,0,1,4
+Azuki_377_dup_noi_14.png,Azuki_377.png,Azuki,noise & compression,jpeg_artifacts,test,1,0,1,0,1,0.3333333333333333,1,0,1,4
+Bored_Ape_Yacht_Club_7_dup_noi_297.png,Bored_Ape_Yacht_Club_7.png,Bored_Ape_Yacht_Club,noise & compression,blurring,test,1,0,1,0,1,1.0,11,3,1,4
+Lil_Pudgys_257_dup_geo_376.png,Lil_Pudgys_257.png,Lil_Pudgys,geometric transformation,cropping,test,1,10,8,18,4,20.5,1,3,1,4
+Bored_Ape_Yacht_Club_307_dup_col_284.png,Bored_Ape_Yacht_Club_307.png,Bored_Ape_Yacht_Club,color modification,brightness_contrast,test,1,0,1,2,1,3.6666666666666665,1,1,1,4
+Lil_Pudgys_411_dup_con_402.png,Lil_Pudgys_411.png,Lil_Pudgys,content modification,background_tint,test,1,1,1,0,1,4.5,1,0,1,4
+Bored_Ape_Yacht_Club_404_dup_col_294.png,Bored_Ape_Yacht_Club_404.png,Bored_Ape_Yacht_Club,color modification,grayscale,test,1,0,1,0,1,0.0,1,1,1,4
+Bored_Ape_Yacht_Club_246_dup_geo_330.png,Bored_Ape_Yacht_Club_246.png,Bored_Ape_Yacht_Club,geometric transformation,cropping,test,24,15,NOT_FOUND,,3,19.6,4,1,3,3

@@ -1,0 +1,14 @@
+# Python Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.xlsx
+
+# Heavy Image Datasets
+Data_sets/
+dataset_duplications/
+features/

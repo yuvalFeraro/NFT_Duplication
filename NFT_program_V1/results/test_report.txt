@@ -1,0 +1,26 @@
+NFT_program_V1 - Test Phase Report
+==================================================
+
+Detector k=1
+  Best thresholds : aHash=0  pHash=17  hsvHash=0  sHash=16
+  TP=46  FP=9  FN=57  TN=94
+  Recall    = 0.4466
+  FPR       = 0.0874
+  Precision = 0.8364
+  F1        = 0.5823
+
+Detector k=2
+  Best thresholds : aHash=0  pHash=17  hsvHash=5  sHash=16
+  TP=45  FP=8  FN=58  TN=95
+  Recall    = 0.4369
+  FPR       = 0.0777
+  Precision = 0.8491
+  F1        = 0.5769
+
+Detector k=3
+  Best thresholds : aHash=20  pHash=17  hsvHash=5  sHash=16
+  TP=43  FP=8  FN=60  TN=95
+  Recall    = 0.4175
+  FPR       = 0.0777
+  Precision = 0.8431
+  F1        = 0.5584
